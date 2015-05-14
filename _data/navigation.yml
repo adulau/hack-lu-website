@@ -1,19 +1,19 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Main page
+  url: http://2015.hack.lu
 
-- title: Articles
-  url: /articles/
+- title: Call-for-Papers
+  url: /blog/Call-for-Paper/
 
-- title: Blog
-  url: /blog/
+- title: Talks
+  url: /talks
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Info & Registration
+  url: /info
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Archive
+  url: http://archive.hack.lu/
 
-- title: Search
-  url: /search/
+- title: hack.lu 2014
+  url: http://2014.hack.lu/
