@@ -25,6 +25,11 @@ The CTF will take place during the hack.lu conference.
 * CTF start is 20.10.2015 10:00 CEST (8:00 UTC)
 * CTF end is 22.10.2015 10:00 CEST (8:00 UTC)
 
+# Topic
+
+>I have never let my schooling interfere with my education.
+**Mark Twain**
+
 # Registration
 
 To be open soon.
