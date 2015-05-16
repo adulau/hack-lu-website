@@ -3,7 +3,7 @@
 - title: Main page
   url: http://2015.hack.lu
 
-- title: Call-for-Papers
+- title: Call for Papers
   url: /blog/Call-for-Paper/
 
 - title: Talks
@@ -11,6 +11,9 @@
 
 - title: Info & Registration
   url: /info
+
+- title: Capture The Flag
+  url: /ctf
 
 - title: Archive
   url: http://archive.hack.lu/
