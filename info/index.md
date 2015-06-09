@@ -27,3 +27,5 @@ The conference will be held as every year in Luxembourg, a small country between
 The hotel venue will be the [Parc Hotel](http://www.parc-hotel.lu/) in Luxembourg-Dommeldange, like last year.
 
 We have preferential prices for the rooms, meaning *85 Euro for a single room* and *103 Euro for a double room* always with breakfast buffet included. Hurry up as the rooms are limited in number.
+
+Hotel can be reserved with the special rate using the following form in [EN](/images/hotel-hacklu-2015-en.xls) or [FR](/images/hotel-hacklu-2015-fr.xls). The complete form needs to be sent to the hotel.
