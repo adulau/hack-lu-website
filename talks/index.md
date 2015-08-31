@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks at Hack.lu 2015 
+title: Talks at Hack.lu 2015
 excerpt: "Talks at Hack.lu 2015"
 modified: 2015-05-14T19:44:38.564948-04:00
 image:
@@ -13,6 +13,26 @@ Talks, workshops and presentations will be published after the [Call for Papers]
 
 Talks
 =====
+
+Binary Constraint Solving with LLVM
+-----------------------------------
+by Sophia D'Antoine
+
+
+This talk will show how to perform a full chain control flow attack against a complex, stand-alone application.
+Specifically, how to use mcsema, llvm, and satisfiability solvers to discover a targeted execution path using side channel analysis. From this we show how to traverse this path to collect path constraints and solve for user input which would give us the desired output.
+This process can then be applied to any targeted behavior in a program, from finding known vulnerability characteristics to simply supplying the correct input to a 'crackme' binary.
+
+A demonstration will conclude the talk by solving an obfuscated 'crackme' challenge using the above described process as well as a mini 'competition' by running a pintool solver and a pysymemu solver against the same binary and comparing to see which gets the flag first.
+
+Bio: Sophia D'Antoine
+---------------------
+
+Sophia D’Antoine is a security researcher at Trail of Bits and a recent graduate student from Rensselaer Polytechnic Institute. At RPI, her graduate research focuses on malicious applications of hardware side channels in virtualized environments. She has presented at RECon Montreal, Blackhat and Sec-t on this topic, specifically on exploiting out-of-order execution, a processor optimization, to create a side channel.
+Presently, she is working with LLVM to automatically analyze, obfuscate, and transform execution paths. Additionally, she is merging concepts of hardware side channel vulnerabilities at this software level of execution. Through her involvement in RPISEC, she has taught security courses, competed in CTFs, and performed security consulting assessments.
+
+Webiste: [sophia.re](http://www.sophia.re/)
+
 
 Workshops
 =========
