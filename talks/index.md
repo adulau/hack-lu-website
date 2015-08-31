@@ -34,6 +34,33 @@ Presently, she is working with LLVM to automatically analyze, obfuscate, and tra
 Webiste: [sophia.re](http://www.sophia.re/)
 
 
+Totally Spies!
+--------------
+by Marion Marschalek, Paul Rascagnères, Joan Calvet
+
+
+In March 2014 a set of slides were leaked from the Communications Security Establishment Canada (CSEC), outlining operation SNOWGLOBE which involves a mysterious malware dubbed Babar that has been spotted spying on Canadian institutions as well as attacking institutions in Iran and other targets in the middle east. CSEC attributed the attacks "with moderate certainty" to a French intelligence agency.
+The group behind Babar is now commonly referred to as "AnimalFarm" in antimalware industry, suggesting Babar was only a small piece of a much bigger puzzle. Since CSEC slides' publication, a group of valorous adventurers, animated by the thrill of understanding complex malware operations, has been relentlessly following SNOWGLOBE's trail. Along its path, this group found several pieces of AnimalFarm's arsenal, for example stealthy Casper, exotic Bunny and even big ears Babar itself. The newest heavy-weight actor on the list of miscreants is Dino, the espionage dinosaur.
+
+This presentation aims to provide a global picture on SNOWGLOBE's operations and also delve into technical quirks of their malware. An assessment of the connection between their various piece of software will be given from a reverse engineer's perspective, and what technical hints regarding attribution can be found.
+
+Bio: Marion Marschalek
+----------------------
+
+Marion Marschalek does malware reverse engineering. Some say she also does marketing, but at the time of writing she could not be reached to further comment on that. At daytime she hunts malware for Cyphort Inc., at nighttime she hunts ghosts. Two years ago Marion won Halvar Flake's reverse engineering challenge for females, since then she set out to rock and roll the industry. She practices martial arts and has a vivid passion to take things apart. Preferably, other people's things.
+
+Bio: Paul Rascagnères
+---------------------
+
+Paul Rascagnères is a malware analyst and researcher for the Sekoia's CERT. He is specialized in Advanced Persistant Threat (APT) and incident response. He worked on several complex cases such as government linked malware or rootkits analysis. He is a worldwide speaker at several security events.
+
+Bio: Joan Calvet
+----------------
+
+Joan Calvet is a malware researcher working at ESET, where he is mainly involved into in-depth malware investigations. He defended his Ph.D. thesis in 2013, and has spoken at security conferences such as REcon, Virus Bulletin and DeepSec.
+
+
+
 Workshops
 =========
 
