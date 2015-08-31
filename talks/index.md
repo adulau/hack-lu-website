@@ -14,6 +14,35 @@ Talks, workshops and presentations will be published after the [Call for Papers]
 Talks
 =====
 
+Key-Logger, Video, Mouse - How to turn your KVM into a raging key-logging monster
+---------------------------------------------------------------------------------
+by Yaniv Balmas, Lior Oppenheim
+
+Key-Loggers are cool, really cool. It seems, however, that every conceivable aspect of key-logging has already been covered: from physical devices to hooking techniques. What possible innovation could be left in this field?
+Well, that's what we used to think too. That is until we noticed that little grey box sitting there underneath a monitor, next to yesterday's dirty coffee cup. The little grey box that is most commonly known as 'KVM'.
+The talk will tell the tale of our long journey to transform an innocent KVM into a raging key-logging monster.
+We will safely guide you through the embedded wastelands, past unknown IC's, to explore uncharted serial protocols and unravel monstrous obfuscation techniques.
+Walking along the misty firmware woods of 8051 assembly we will challenge ambiguous functions, and confront undebuggable environments.
+
+Finally, we will present a live demo of our POC code and show you that air-gapped networks might not be as segregated as you imagined.
+You will witness that malware code could actually reside outside your computer, persisting through reboots, wipes, formats, and even hardware replacements.
+You might laugh, you might cry, but one thing is certain - you will never look at your KVM the same as before.
+
+Bio: Yaniv Balmas
+-----------------
+
+Yaniv Balmas is a software engineer and a seasoned professional in the security field. He wrote his very first piece of code in BASIC on the new Commodore-64 he got for his 8th birthday. As a teenager, he spent his time looking for ways to hack computer games and break BBS software. This soon led to diving into more serious programming, and ultimately, the security field where he has been ever since. Yaniv is currently leading the malware research team at Check Point Software Technologies where he deals mainly with analyzing malware and vulnerability research.
+
+Twitter: [@ynvb](https://www.twitter.com/ynvb)
+
+
+Bio: Lior Oppenheim
+-------------------
+
+Lior Oppenheim is a vulnerability researcher in the Malware and Vulnerability Research group at Check Point Software Technologies. Oppenheim was trained and served in an elite technological unit performing security research in the IDF. In his spare time, he loves tap dancing, reversing, playing his guitar and pwning embedded devices.
+
+Twitter: [@oppenheim1](https://www.twitter.com/oppenheim1)
+
 
 Keys? Where we're going, we don't need keys
 -------------------------------------------
