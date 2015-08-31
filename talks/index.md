@@ -14,6 +14,29 @@ Talks, workshops and presentations will be published after the [Call for Papers]
 Talks
 =====
 
+
+Keys? Where we're going, we don't need keys
+-------------------------------------------
+by Damien Cauquil
+
+Smartlocks are the new way of securing doors by replacing the old mechanical locks by new high-tech and connected locks, able to
+communicate with other smart devices such as smartphones and computers.
+Vendors argue that "key dematerialization" is the future of keys, where anybody would be able to give, control and revoke keys for one or
+multiple locks by using his smartphone. No more physical keys needed for a better control, they say.
+
+We'll go through the challenges of key dematerialization in the actual world, from technical challenges to real world implementations ... and failures.
+
+Widespread smartlocks (and padlocks) are not so smart, and developers often fail at correctly implementing cryptographic algorithms (especially when the smartlock is advertised as using a strong AES-256 implementation), and of course security by obscurity is still used and broken when dealing with critical embedded systems.
+
+During this talk, we're going to demonstrate some real world attacks on one of these smartlocks, from information leaks to "wireless lockpicking" through fuzzing.
+
+
+Bio: Damien Cauquil
+-------------------
+Damien Cauquil is Head of Research at Sysdream, a French IT Security Company, and also an experienced reverse-engineer. He started reversing binaries at the age of 16, with some friends and a lot of coke and pizzas, using old tools such as Win32dasm or Procdump.  He is now playing with electronics, embedded systems and his soldering iron.
+
+He is a regular speaker at the French Nuit du Hack conference, but also spoke at other security conferences such as Hack In Paris, 29C3 and CCCamp 2015.
+
 Binary Constraint Solving with LLVM
 -----------------------------------
 by Sophia D'Antoine
