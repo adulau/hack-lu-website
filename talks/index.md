@@ -56,6 +56,18 @@ Presently, she is working with LLVM to automatically analyze, obfuscate, and tra
 
 Website: [sophia.re](http://www.sophia.re/)
 
+Advances in Secure Messaging Protocols
+--------------------------------------
+by Frederic Jacobs
+
+Along with the Snowden revelations, there's been a surge of interest in end-to-end security for messaging. This idea is nothing new, OTR and PGP have been around for some time but failed to get widespread adoption.
+
+We discuss the desirable cryptographic properties of secure messaging protocols and show how they are achieved in practice in different protocols. We also show how multiple newcomers to the secure messaging space are reducing metadata trails and discuss impact it has on fighting abuse such as spam.
+
+Bio: Frederic Jacobs
+--------------------
+
+Frederic Jacobs is discovering lattices and elliptic curves at the Swiss Institute of Technology by day and works on multiple applied cryptography projects by night. He is leading the development of Signal at Open Whisper Systems.
 
 Totally Spies!
 --------------
