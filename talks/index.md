@@ -98,6 +98,21 @@ Bio: Frederic Jacobs
 
 Frederic Jacobs is discovering lattices and elliptic curves at the Swiss Institute of Technology by day and works on multiple applied cryptography projects by night. He is leading the development of Signal at Open Whisper Systems.
 
+How not to build an electronic voting system
+--------------------------------------------
+
+Back in 1994, Belgium was one of the first European country to push for the deployment of electronic voting systems. Thought at the time as a sign of Belgium stepping foot in the 21st century, the system stayed in use up to the latest European elections that took place in May 2014. As years passed, bugs got discovered, issues were raised, and public concern grew up to the point where the government was obliged by law to publish the source code of those systems. We jumped on the opportunity to audit the code in June 2014, a few days after the #bug2505 debacle.
+By auditing the source code provided by the Ministry of Home Affairs, we found multiple vulnerabilities in the system that could easily be exploited by an attacker to tamper with the election process.
+
+This presentation will cover all the Belgian election system components, from the different implementations of ballot boxes to the infrastructure responsible of counting each and every vote. Our ultimate goal is to cast a light on bad security practices we found in election management systems so it hopefully get fixed by the next election year.
+
+
+Bio: Quentin Kaiser
+-------------------
+
+Quentin Kaiser is currently a Security Engineer at Gremwell, dealing with various tasks such as web and mobile applications penetration testing, social engineering engagements, and audits of network infrastructures. His interests gravitates around social engineering, open source intelligence, and Android security. During his studies he founded the first hackerspace in the Luxembourg province, located in Bastogne, Belgium: BHackspace.
+
+
 Totally Spies!
 --------------
 by Marion Marschalek, Paul Rascagnères, Joan Calvet
