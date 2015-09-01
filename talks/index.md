@@ -14,6 +14,17 @@ Talks, workshops and presentations will be published after the [Call for Papers]
 Talks
 =====
 
+How Mobile Applications Are Redefining Information Controls Inside of Iran
+--------------------------------------------------------------------------
+by Mahsa Alimardani
+
+As Internet users increasingly connect to the Internet through smartphones, this has transformed Iran’s Internet ecology towards an increasing reliance and production in apps. In Iran, a country that practises some of the most stringent censorship and surveillance techniques in the world has seen this transformation reshape the way the government implements information controls online. While applications with popular usage on browsers such as Facebook and Twitter remain blocked through their mobile applications, platforms that predominantly exist in app form such as WhatsApp, Viber, and Instagram remain unblocked in the country. This talk will look at how the government is counteracting these policies through various means, including local imitation apps, and new programs such as ‘intelligent filtering’, and the Revolutionary Guards' “Spider” program. Additionally, a discussion of how Iranian Internet users use these platforms, especially in reference to digital security awareness and practices will be included. 
+
+Bio: Mahsa Alimardani
+---------------------
+
+Mahsa Alimardani has been doing research and work on the politics of Iran’s Internet for the past four years. She is currently a graduate student at the University of Amsterdam, working as a researcher on digital activism in the Data J Lab. She also dabbles with editing, writing, and sometimes ranting about Iran as the Global Voices Iran editor.
+
 Key-Logger, Video, Mouse - How to turn your KVM into a raging key-logging monster
 ---------------------------------------------------------------------------------
 by Yaniv Balmas, Lior Oppenheim
