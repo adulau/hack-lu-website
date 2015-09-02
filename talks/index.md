@@ -14,6 +14,22 @@ Talks, workshops and presentations will be published after the [Call for Papers]
 Talks
 =====
 
+Keynote - Unpatchable: Living with a Vulnerable Implanted Device
+----------------------------------------------------------------
+by Marie Moe
+
+My life depends on the functioning of a medical device, a pacemaker that generates each and every beat of my heart. This computer inside of me may fail due to hardware and software issues, due to misconfigurations or network-connectivity.
+
+Yes, you read that correctly. The pacemaker has a wireless interface for remote monitoring and I am forced to become a human part of the Internet-of-Things. As a seasoned security-professional I am worried about my heart's attack surface.
+
+This talk will be focused on the problem that we have these life critical devices with vulnerabilities that can't easily be patched without performing surgery on patients, my personal experience with being the host of such a device, and how the hacker community can proceed to work with the vendors to secure the devices.
+
+
+Bio: Marie Moe
+--------------
+
+Marie Moe is passionate about incident handling and information sharing, she cares about public safety and securing systems that may impact human lives, this is why she has joined the grassroots organisation “I Am The Cavalry". Marie is a research scientist at SINTEF ICT, and has a Ph. D. in information security. She has experience as a team leader at NorCERT, the Norwegian national CERT. Marie also teaches a class on incident management and contingency planning at Gjøvik University College in Norway. Marie loves to break crypto protocols, but gets angry when its in her own body.
+
 
 Trusting Files Formats: Illusions or Reality?
 ---------------------------------------------
