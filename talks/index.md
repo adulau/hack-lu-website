@@ -150,6 +150,24 @@ Bio: Joan Calvet
 Joan Calvet is a malware researcher working at ESET, where he is mainly involved into in-depth malware investigations. He defended his Ph.D. thesis in 2013, and has spoken at security conferences such as REcon, Virus Bulletin and DeepSec.
 
 
+Improving Flash Exploits Analysis
+---------------------------------
+
+Eight different zero-day vulnerabilities in Adobe Flash Player in 2015 so far, and analysts are struggling to get a handle on the problem:
+Malicous Flash poses some special challenges at them when trying to answer, for example, if a particular object is malicious, if it contains
+an exploit for a known vulnerability, or if variants of it have been observed before. Naturally, the answer is in the code. In this talk we
+will discuss ways of making the relevant information available and use it to write signatures that allow us to identify and classify variants
+of known exploit as well as understand unknown ones faster. Together with this presentation we will release swffile.py, a Python class to be
+used in custom analysis tools that provides an interface for SWF file parsing.
+
+
+Bio: Tillmann Werner
+--------------------
+
+Tillmann Werner is the Director of Technical Analysis at CrowdStrike Intelligence where he is responsible for the analysis of various kinds
+of threats. He loves combining scientific research with intelligence analysis and specializes in malware reverse engineering, honeypot
+technologies and containment strategies for large-scale botnets. As a member of the Honeynet Project, Tillmann is actively involved with the
+global computer security community and is a regular speaker on the international conference circuit.
 
 Workshops
 =========
