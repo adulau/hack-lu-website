@@ -192,6 +192,21 @@ Bio: Joan Calvet
 
 Joan Calvet is a malware researcher working at ESET, where he is mainly involved into in-depth malware investigations. He defended his Ph.D. thesis in 2013, and has spoken at security conferences such as REcon, Virus Bulletin and DeepSec.
 
+Stegosploit - Delivering Drive-By Exploits With Only Images
+-----------------------------------------------------------
+by Saumil Shah
+
+Stegosploit creates a new way to encode "drive-by" browser exploits and deliver them through image files. These payloads are undetectable using current means. This paper discusses two broad underlying techniques used for image based exploit delivery - Steganography and Polyglots. Drive-by browser exploits are steganographically encoded into JPG and PNG images. The resultant image file is fused with HTML and Javascript decoder code, turning it into an HTML+Image polyglot. The polyglot looks and feels like an image, but is decoded and triggered in a victim's browser when loaded.
+
+The Stegosploit Toolkit contains the tools necessary to test image based exploit delivery. A case study of a Use-After-Free memory corruption exploit (CVE-2014-0282) shall be presented demonstrating the Stegosploit technique.
+
+Bio: Saumil Shah
+----------------
+
+Saumil Shah is the founder and CEO of Net-Square, providing cutting edge information security services to clients around the globe. Saumil is an internationally recognized speaker and instructor, having regularly presented at awesome conferences like Deepsec, Blackhat, RSA, CanSecWest, PacSec, EUSecWest, Hack.lu, Hack-in-the-box and others. He has authored two books titled "Web Hacking: Attacks and Defense" and "The Anti-Virus Book".
+
+Saumil graduated with an M.S. in Computer Science from Purdue University, USA and a B.E. in Computer Engineering from Gujarat University. He spends his leisure time breaking software, flying kites, travelling around the world and taking pictures.
+
 
 Improving Flash Exploits Analysis
 ---------------------------------
