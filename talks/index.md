@@ -14,6 +14,33 @@ Talks, workshops and presentations will be published after the [Call for Papers]
 Talks
 =====
 
+
+Trusting Files Formats: Illusions or Reality?
+---------------------------------------------
+by Ange Albertini
+
+What is our biggest fear when we double-click an icon, when our system opens an external file?
+Being hacked! You know it, because this is what the medias would make their headlines about.
+
+Crashing an app or your system is also a risk, but it's not that scary in comparison.
+
+And besides... What else could happen? it's fine...
+
+It's fine, because we always have the sweet illusion that by reading the specs of its file format, we'd get a clear understanding of what
+that file is supposed to do.
+
+As if... ;) Can we still trust file formats?
+
+On top of that, while preservationists want to store reliably information for ever, infosec people are ready to ban a file format if it doesn't match
+security standards...
+
+Can we trust their future?
+
+Bio: Ange Albertini
+-------------------
+
+Reverse engineering & visual documentations. [Corkami](https://github.com/corkami)
+
 How Mobile Applications Are Redefining Information Controls Inside of Iran
 --------------------------------------------------------------------------
 by Mahsa Alimardani
@@ -121,7 +148,7 @@ This presentation will cover all the Belgian election system components, from th
 Bio: Quentin Kaiser
 -------------------
 
-Quentin Kaiser is currently a Security Engineer at Gremwell, dealing with various tasks such as web and mobile applications penetration testing, social engineering engagements, and audits of network infrastructures. His interests gravitates around social engineering, open source intelligence, and Android security. During his studies he founded the first hackerspace in the Luxembourg province, located in Bastogne, Belgium: BHackspace.
+Quentin Kaiser is currently working as a Security Engineer, dealing with various tasks such as web and mobile applications penetration testing, social engineering engagements, and audits of network infrastructures. His interests gravitates around social engineering, open source intelligence, and Android security. During his studies he founded the first hackerspace in the Luxembourg province, located in Bastogne, Belgium: BHackspace.
 
 
 Totally Spies!
@@ -152,6 +179,7 @@ Joan Calvet is a malware researcher working at ESET, where he is mainly involved
 
 Improving Flash Exploits Analysis
 ---------------------------------
+by Tillmann Werner
 
 Eight different zero-day vulnerabilities in Adobe Flash Player in 2015 so far, and analysts are struggling to get a handle on the problem:
 Malicous Flash poses some special challenges at them when trying to answer, for example, if a particular object is malicious, if it contains
