@@ -61,7 +61,7 @@ How Mobile Applications Are Redefining Information Controls Inside of Iran
 --------------------------------------------------------------------------
 by Mahsa Alimardani
 
-As Internet users increasingly connect to the Internet through smartphones, this has transformed Iran’s Internet ecology towards an increasing reliance and production in apps. In Iran, a country that practises some of the most stringent censorship and surveillance techniques in the world has seen this transformation reshape the way the government implements information controls online. While applications with popular usage on browsers such as Facebook and Twitter remain blocked through their mobile applications, platforms that predominantly exist in app form such as WhatsApp, Viber, and Instagram remain unblocked in the country. This talk will look at how the government is counteracting these policies through various means, including local imitation apps, and new programs such as ‘intelligent filtering’, and the Revolutionary Guards' “Spider” program. Additionally, a discussion of how Iranian Internet users use these platforms, especially in reference to digital security awareness and practices will be included. 
+As Internet users increasingly connect to the Internet through smartphones, this has transformed Iran’s Internet ecology towards an increasing reliance and production in apps. In Iran, a country that practises some of the most stringent censorship and surveillance techniques in the world has seen this transformation reshape the way the government implements information controls online. While applications with popular usage on browsers such as Facebook and Twitter remain blocked through their mobile applications, platforms that predominantly exist in app form such as WhatsApp, Viber, and Instagram remain unblocked in the country. This talk will look at how the government is counteracting these policies through various means, including local imitation apps, and new programs such as ‘intelligent filtering’, and the Revolutionary Guards' “Spider” program. Additionally, a discussion of how Iranian Internet users use these platforms, especially in reference to digital security awareness and practices will be included.
 
 Bio: Mahsa Alimardani
 ---------------------
@@ -208,6 +208,25 @@ Saumil Shah is the founder and CEO of Net-Square, providing cutting edge informa
 Saumil graduated with an M.S. in Computer Science from Purdue University, USA and a B.E. in Computer Engineering from Gujarat University. He spends his leisure time breaking software, flying kites, travelling around the world and taking pictures.
 
 
+Why Johnny Can't Unpack: Toward One Click Unpacking
+---------------------------------------------------
+
+Johnny is frustrated, he can't unpack malware. Nor does his latest sandbox which his organization acquired from some Fortune-100 company, nor does his cloud service which his company pays a few k's every month for. Every day he's struggling to analyze malware in order grab intelligence from the latest malware his organization got infected in , but he's looking for something different, something which might assist him to analyze high amounts of packed and obfuscated malware.
+
+In this research I show the journey of "Why Johnny can't Unpack", I start by showing the general problem of unpacking in comparison to the halting problem and then move onto the different complications unpacking obfuscated and protected code has with nowadays protectors. Next, I move onto explaining how it is possible to achieve how percentage of unpacking rate using a debugger-free environment using VMI and program analysis techniques.
+
+Using the aforementioned techniques, we are able to achieve high unpacking rate and the ability to correlate binaries, basic blocks and even families to achieve better malware unpacking results, however we can also expand this research into the next 20% which involves deobfuscation and program transformation by transforming VM-bytecode into x86.
+
+By combining the aforementioned techniques, we are able to achieve high unpacking rate and the ability to correleate between binaries, basic blocks and even different malware families. However, we can also expand this research into fully deobfuscating a program which was whiteboxed or transformed by VM-code or program whitening techniques.
+
+
+Bio: Shift
+----------
+
+Shift is a freelance security researcher with a strong interest in lowlevel, vulnerability research and operating systems.
+Wandering from two sides of the coin Shift enjoys breaking software and reverse engineering different types of software.
+
+
 Improving Flash Exploits Analysis
 ---------------------------------
 by Tillmann Werner
@@ -275,7 +294,7 @@ Workshop BTA: an open-source Active Directory security audit framework (2 hours)
 --------------------------------------------------------------------------------
 by Joffrey Czarny
 
-When it comes to the security of the information system, Active Directory domain controllers are, or should be, at the center of concerns, which are (normally) to ensure compliance with best practices, and during a compromise proved to explore the possibility of cleaning the information system without having to rebuild Active Directory. However, few tools implement this process and several ways exist to backdoor Active Directory. We propose to present some possible backdoors which could be set by an intruder in Active Directory to keep administration rights. For example, how to modify the AdminSDHolder container in order to reapply rights after administrator actions. Moreover, backdoors can be implemented in Active Directory to help an intruder to gain back his privileges. 
+When it comes to the security of the information system, Active Directory domain controllers are, or should be, at the center of concerns, which are (normally) to ensure compliance with best practices, and during a compromise proved to explore the possibility of cleaning the information system without having to rebuild Active Directory. However, few tools implement this process and several ways exist to backdoor Active Directory. We propose to present some possible backdoors which could be set by an intruder in Active Directory to keep administration rights. For example, how to modify the AdminSDHolder container in order to reapply rights after administrator actions. Moreover, backdoors can be implemented in Active Directory to help an intruder to gain back his privileges.
 
 We will present BTA, an audit tool for Active Directory databases, and our methodology for verifying the application of good practices and the absence of malicious changes in these databases.
 
