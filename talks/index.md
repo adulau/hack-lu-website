@@ -240,3 +240,24 @@ Prerequisites:
 * Laptop with Windows 32/64 bits or Linux 64 bits only (Debian wheezy, Debian jessie, Ubuntu 14.04, Ubuntu 14.10, Ubuntu 15.10, Kali Linux) with a RJ45 Gigabit NIC (required !).
 * A virtualbox OVA is also available in case your OS is not supported by hns-platform. Please check that your CPU supports virtualization technology
 
+Workshop BTA: an open-source Active Directory security audit framework (2 hours)
+--------------------------------------------------------------------------------
+by Joffrey Czarny
+
+When it comes to the security of the information system, Active Directory domain controllers are, or should be, at the center of concerns, which are (normally) to ensure compliance with best practices, and during a compromise proved to explore the possibility of cleaning the information system without having to rebuild Active Directory. However, few tools implement this process and several ways exist to backdoor Active Directory. We propose to present some possible backdoors which could be set by an intruder in Active Directory to keep administration rights. For example, how to modify the AdminSDHolder container in order to reapply rights after administrator actions. Moreover, backdoors can be implemented in Active Directory to help an intruder to gain back his privileges. 
+
+We will present BTA, an audit tool for Active Directory databases, and our methodology for verifying the application of good practices and the absence of malicious changes in these databases.
+
+The Workshop will be organised as follows:
+
+- We begin by a presentation, describing the stakes around the Active Directory, centerpiece of any information system based on Microsoft technologies. Then some backdoors, in order to keep admins rights or to help an intruder to quickly recover admins rights, will be demonstrated. At last, we will present BTA and the methodology developed to analysis Active Directory.
+
+- Thereafter, we will use (play with) BTA and try to discover backdoors within a Active Directory. We will try also to develop some miners in order to understand how BTA is architectured and show how it's easy to perform some new security checks.
+
+More information on BTA can be found on the Bitbucket repository [https://bitbucket.org/iwseclabs/bta](https://bitbucket.org/iwseclabs/bta)
+
+Bio: Joffrey Czarny
+-------------------
+
+Joffrey Czarny is working for Airbus Group Innovations (FR) as a security researcher. Since 2001, Joffrey is a pentester who has released advisories on VoIP Cisco products and spoken at various security-focused conferences (Hack.lu ITunderground, Hacktivity, HITB,  SSTIC, BlackHat Arsenal...). On his spare time, Joffrey is co-organizer of NoSuchCon (Paris) conference.
+
