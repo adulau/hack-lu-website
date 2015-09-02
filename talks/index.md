@@ -232,6 +232,25 @@ Saumil Shah is the founder and CEO of Net-Square, providing cutting edge informa
 Saumil graduated with an M.S. in Computer Science from Purdue University, USA and a B.E. in Computer Engineering from Gujarat University. He spends his leisure time breaking software, flying kites, travelling around the world and taking pictures.
 
 
+Why Johnny Can't Unpack: Toward One Click Unpacking
+---------------------------------------------------
+
+Johnny is frustrated, he can't unpack malware. Nor does his latest sandbox which his organization acquired from some Fortune-100 company, nor does his cloud service which his company pays a few k's every month for. Every day he's struggling to analyze malware in order grab intelligence from the latest malware his organization got infected in , but he's looking for something different, something which might assist him to analyze high amounts of packed and obfuscated malware.
+
+In this research I show the journey of "Why Johnny can't Unpack", I start by showing the general problem of unpacking in comparison to the halting problem and then move onto the different complications unpacking obfuscated and protected code has with nowadays protectors. Next, I move onto explaining how it is possible to achieve how percentage of unpacking rate using a debugger-free environment using VMI and program analysis techniques.
+
+Using the aforementioned techniques, we are able to achieve high unpacking rate and the ability to correlate binaries, basic blocks and even families to achieve better malware unpacking results, however we can also expand this research into the next 20% which involves deobfuscation and program transformation by transforming VM-bytecode into x86.
+
+By combining the aforementioned techniques, we are able to achieve high unpacking rate and the ability to correleate between binaries, basic blocks and even different malware families. However, we can also expand this research into fully deobfuscating a program which was whiteboxed or transformed by VM-code or program whitening techniques.
+
+
+Bio: Shift
+----------
+
+Shift is a freelance security researcher with a strong interest in lowlevel, vulnerability research and operating systems.
+Wandering from two sides of the coin Shift enjoys breaking software and reverse engineering different types of software.
+
+
 Improving Flash Exploits Analysis
 ---------------------------------
 by Tillmann Werner
