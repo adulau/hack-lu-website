@@ -120,6 +120,38 @@ Damien Cauquil is Head of Research at Sysdream, a French IT Security Company, an
 
 He is a regular speaker at the French Nuit du Hack conference, but also spoke at other security conferences such as Hack In Paris, 29C3 and CCCamp 2015.
 
+
+Draw me a Local Kernel Debugger
+-------------------------------
+by Samuel Chevet and Clément Rouault
+
+Local Kernel Debugging is the ability to perform kernel-mode debugging on a
+single computer. In other words, the debugger runs on the same computer
+that is being debugged. Windows offers this functionality through windbg and kd
+binaries which allow to read/write the kernel memory, perform in/out and access MSRs.
+
+This presentation will explain how dbgengine (core of windbg) works: which APIs are
+exposed and what it requires to work properly. We will show how to abuse it to
+be able to perform Local Kernel Debugging in Python. Finally, we demonstrate its
+interest throught use cases.
+
+Bio: Samuel Chevet
+------------------
+
+Samuel Chevet is a security researcher currently working at Sogeti ESEC R&D.
+His interests mainly lies in reverse engineering, vulnerability research and windows internals.
+
+[@w4kfu](https://twitter.com/w4kfu)
+
+Bio: Clement Rouault
+--------------------
+
+Clement Rouault is a security researcher currently working at Sogeti ESEC R&D.
+Fervent user of Python he is interested in use, abuse and implementation of this language.
+His research interests include reverse engineering and exploitation.
+
+[@hakril](https://twitter.com/hakril)
+
 Binary Constraint Solving with LLVM
 -----------------------------------
 by Sophia D'Antoine
