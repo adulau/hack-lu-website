@@ -61,7 +61,7 @@ How Mobile Applications Are Redefining Information Controls Inside of Iran
 --------------------------------------------------------------------------
 by Mahsa Alimardani
 
-As Internet users increasingly connect to the Internet through smartphones, this has transformed Iran’s Internet ecology towards an increasing reliance and production in apps. In Iran, a country that practises some of the most stringent censorship and surveillance techniques in the world has seen this transformation reshape the way the government implements information controls online. While applications with popular usage on browsers such as Facebook and Twitter remain blocked through their mobile applications, platforms that predominantly exist in app form such as WhatsApp, Viber, and Instagram remain unblocked in the country. This talk will look at how the government is counteracting these policies through various means, including local imitation apps, and new programs such as ‘intelligent filtering’, and the Revolutionary Guards' “Spider” program. Additionally, a discussion of how Iranian Internet users use these platforms, especially in reference to digital security awareness and practices will be included. 
+As Internet users increasingly connect to the Internet through smartphones, this has transformed Iran’s Internet ecology towards an increasing reliance and production in apps. In Iran, a country that practises some of the most stringent censorship and surveillance techniques in the world has seen this transformation reshape the way the government implements information controls online. While applications with popular usage on browsers such as Facebook and Twitter remain blocked through their mobile applications, platforms that predominantly exist in app form such as WhatsApp, Viber, and Instagram remain unblocked in the country. This talk will look at how the government is counteracting these policies through various means, including local imitation apps, and new programs such as ‘intelligent filtering’, and the Revolutionary Guards' “Spider” program. Additionally, a discussion of how Iranian Internet users use these platforms, especially in reference to digital security awareness and practices will be included.
 
 Bio: Mahsa Alimardani
 ---------------------
@@ -154,6 +154,7 @@ Frederic Jacobs is discovering lattices and elliptic curves at the Swiss Institu
 
 How not to build an electronic voting system
 --------------------------------------------
+by Quentin Kaiser
 
 Back in 1994, Belgium was one of the first European country to push for the deployment of electronic voting systems. Thought at the time as a sign of Belgium stepping foot in the 21st century, the system stayed in use up to the latest European elections that took place in May 2014. As years passed, bugs got discovered, issues were raised, and public concern grew up to the point where the government was obliged by law to publish the source code of those systems. We jumped on the opportunity to audit the code in June 2014, a few days after the #bug2505 debacle.
 By auditing the source code provided by the Ministry of Home Affairs, we found multiple vulnerabilities in the system that could easily be exploited by an attacker to tamper with the election process.
@@ -192,6 +193,29 @@ Bio: Joan Calvet
 
 Joan Calvet is a malware researcher working at ESET, where he is mainly involved into in-depth malware investigations. He defended his Ph.D. thesis in 2013, and has spoken at security conferences such as REcon, Virus Bulletin and DeepSec.
 
+How digital forensics met threat intelligence
+---------------------------------------------
+by Ronan Mouchoux, Thomas Chopitea
+
+
+Blue-team infosec is all about defending against an opponent. And as we all know, knowing (or "gathering intelligence on" your opponent is becoming crucial: being able to know (and to predict) your opponent's moves greatly reduces the cost of defending against their attacks.
+
+This talk will (re-)introduce the concept of Threat Intelligence as we understand it today, leaving misconceptions behind and exploring the concepts and models that have already been developed to describe it, and see how it relates to "classical" intelligence.
+
+Using concrete examples we'll see exactly how threat intelligence fits in the incident response process, ranging from preparation to lessons learned, and how dismissing it as snake oil can have a negative effect on the defenders. We'll also expose the some tools and processes that help DFIRers collect, manage, and use threat intelligence today, including their aspirations and limitations.
+
+
+Bio: Ronan Mouchoux
+-------------------
+
+Ronan is analyst at CERT Sekoia with a focus on Cyber-Threat Intelligence. He is a former SOC analyst and network forensic analyst. He presented his work on bot detection inside corporate networks by leveraging OSINT feeds and semantic DGA detection at SSTIC2012 and Botconf2013. In 2014 he co-authored a paper on a cybercriminal ring stealing intellectual property dubbed "Pitty Tiger". During Botconf2014 he co-presented the main background questions the Pitty Tiger investigation team had to face; including data and people management, hypothesis and doubts, closed and open information release.
+
+Bio: Thomas Chopitea
+--------------------
+
+Thomas Chopitea is an incident handler at CERT Société Générale. His day-to-day tasks revolve around incident response (duh), digital forensic investigations, malware analysis (including some reverse engineering late at night), and creating tools that can actually be used by humans. Thomas is one of the core developers of FIR, CERT Société Générale's open-source incident management platform and Malcom, a malware communication analysis and threat intelligence tool he introduced during Botconf2013.
+
+
 Stegosploit - Delivering Drive-By Exploits With Only Images
 -----------------------------------------------------------
 by Saumil Shah
@@ -206,6 +230,25 @@ Bio: Saumil Shah
 Saumil Shah is the founder and CEO of Net-Square, providing cutting edge information security services to clients around the globe. Saumil is an internationally recognized speaker and instructor, having regularly presented at awesome conferences like Deepsec, Blackhat, RSA, CanSecWest, PacSec, EUSecWest, Hack.lu, Hack-in-the-box and others. He has authored two books titled "Web Hacking: Attacks and Defense" and "The Anti-Virus Book".
 
 Saumil graduated with an M.S. in Computer Science from Purdue University, USA and a B.E. in Computer Engineering from Gujarat University. He spends his leisure time breaking software, flying kites, travelling around the world and taking pictures.
+
+
+Why Johnny Can't Unpack: Toward One Click Unpacking
+---------------------------------------------------
+
+Johnny is frustrated, he can't unpack malware. Nor does his latest sandbox which his organization acquired from some Fortune-100 company, nor does his cloud service which his company pays a few k's every month for. Every day he's struggling to analyze malware in order grab intelligence from the latest malware his organization got infected in , but he's looking for something different, something which might assist him to analyze high amounts of packed and obfuscated malware.
+
+In this research I show the journey of "Why Johnny can't Unpack", I start by showing the general problem of unpacking in comparison to the halting problem and then move onto the different complications unpacking obfuscated and protected code has with nowadays protectors. Next, I move onto explaining how it is possible to achieve how percentage of unpacking rate using a debugger-free environment using VMI and program analysis techniques.
+
+Using the aforementioned techniques, we are able to achieve high unpacking rate and the ability to correlate binaries, basic blocks and even families to achieve better malware unpacking results, however we can also expand this research into the next 20% which involves deobfuscation and program transformation by transforming VM-bytecode into x86.
+
+By combining the aforementioned techniques, we are able to achieve high unpacking rate and the ability to correleate between binaries, basic blocks and even different malware families. However, we can also expand this research into fully deobfuscating a program which was whiteboxed or transformed by VM-code or program whitening techniques.
+
+
+Bio: Shift
+----------
+
+Shift is a freelance security researcher with a strong interest in lowlevel, vulnerability research and operating systems.
+Wandering from two sides of the coin Shift enjoys breaking software and reverse engineering different types of software.
 
 
 Improving Flash Exploits Analysis
@@ -275,7 +318,7 @@ Workshop BTA: an open-source Active Directory security audit framework (2 hours)
 --------------------------------------------------------------------------------
 by Joffrey Czarny
 
-When it comes to the security of the information system, Active Directory domain controllers are, or should be, at the center of concerns, which are (normally) to ensure compliance with best practices, and during a compromise proved to explore the possibility of cleaning the information system without having to rebuild Active Directory. However, few tools implement this process and several ways exist to backdoor Active Directory. We propose to present some possible backdoors which could be set by an intruder in Active Directory to keep administration rights. For example, how to modify the AdminSDHolder container in order to reapply rights after administrator actions. Moreover, backdoors can be implemented in Active Directory to help an intruder to gain back his privileges. 
+When it comes to the security of the information system, Active Directory domain controllers are, or should be, at the center of concerns, which are (normally) to ensure compliance with best practices, and during a compromise proved to explore the possibility of cleaning the information system without having to rebuild Active Directory. However, few tools implement this process and several ways exist to backdoor Active Directory. We propose to present some possible backdoors which could be set by an intruder in Active Directory to keep administration rights. For example, how to modify the AdminSDHolder container in order to reapply rights after administrator actions. Moreover, backdoors can be implemented in Active Directory to help an intruder to gain back his privileges.
 
 We will present BTA, an audit tool for Active Directory databases, and our methodology for verifying the application of good practices and the absence of malicious changes in these databases.
 
