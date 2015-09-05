@@ -68,6 +68,23 @@ Bio: Mahsa Alimardani
 
 Mahsa Alimardani has been doing research and work on the politics of Iran’s Internet for the past four years. She is currently a graduate student at the University of Amsterdam, working as a researcher on digital activism in the Data J Lab. She also dabbles with editing, writing, and sometimes ranting about Iran as the Global Voices Iran editor.
 
+Geek usages for your Fitbit Flex tracker
+----------------------------------------
+by Axelle Apvrille
+
+Fitness Flex is a fitness wristband which records your fitness activity: walking, running - and also sleep efficiency.
+Since prior infamous security and privacy issues - such as public web disclosure of sexual activity - Fitbit has made significant progress. While reverse engineering, we noticed trackers now use end to end encryption for their communications with Fitbit servers.
+Is this good? or bad?
+What happens if Fitbit servers are unreachable ? What can we possibly do with the wristband besides activity tracking?
+
+I'll present two alternative geeky usages to your beloved fitness tracker.
+
+Bio: Axelle Apvrille
+--------------------
+
+Anti-virus researcher with Fortinet, FortiGuard Labs.
+The strange, advanded or unexpected non-desktop malware (e.g mobile, connected objects) get on my desk.
+
 Key-Logger, Video, Mouse - How to turn your KVM into a raging key-logging monster
 ---------------------------------------------------------------------------------
 by Yaniv Balmas, Lior Oppenheim
