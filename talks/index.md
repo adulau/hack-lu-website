@@ -68,6 +68,23 @@ Bio: Mahsa Alimardani
 
 Mahsa Alimardani has been doing research and work on the politics of Iran’s Internet for the past four years. She is currently a graduate student at the University of Amsterdam, working as a researcher on digital activism in the Data J Lab. She also dabbles with editing, writing, and sometimes ranting about Iran as the Global Voices Iran editor.
 
+Geek usages for your Fitbit Flex tracker
+----------------------------------------
+by Axelle Apvrille
+
+Fitness Flex is a fitness wristband which records your fitness activity: walking, running - and also sleep efficiency.
+Since prior infamous security and privacy issues - such as public web disclosure of sexual activity - Fitbit has made significant progress. While reverse engineering, we noticed trackers now use end to end encryption for their communications with Fitbit servers.
+Is this good? or bad?
+What happens if Fitbit servers are unreachable ? What can we possibly do with the wristband besides activity tracking?
+
+I'll present two alternative geeky usages to your beloved fitness tracker.
+
+Bio: Axelle Apvrille
+--------------------
+
+Anti-virus researcher with Fortinet, FortiGuard Labs.
+The strange, advanded or unexpected non-desktop malware (e.g mobile, connected objects) get on my desk.
+
 Key-Logger, Video, Mouse - How to turn your KVM into a raging key-logging monster
 ---------------------------------------------------------------------------------
 by Yaniv Balmas, Lior Oppenheim
@@ -151,6 +168,21 @@ Fervent user of Python he is interested in use, abuse and implementation of this
 His research interests include reverse engineering and exploitation.
 
 [@hakril](https://twitter.com/hakril)
+
+Security of Virtual Desktop Infrastructures: from great concepts to bad surprises
+---------------------------------------------------------------------------------
+by Maxime Clementz, Simon Petitjean
+
+Virtual Desktop Infrastructure hosts users' desktop environments on remote servers which are accessed over a network using a remote display protocol from specific client software or hardware such as Thin-client or Zero-client.
+We encountered such solutions during pentests in high-security networks. Moreover, we had the opportunity to study one specific commercial implementation: we identified and exploited several flaws that allow taking over the whole infrastructure.
+We've had some fun hacking this technology so we would like to share our experience by explaining our findings and giving tips to mitigate the critical vulnerabilities we found.
+**SPOILER**: responsible disclosure is simultaneously launched with this paper submission. Of course, the content of our final presentation will depend on the outcome of the discussion with the editor.
+
+
+Bio: Maxime Clementz & Simon Petitjean
+--------------------------------------
+
+Maxime ([@maxime\_tz](https://twitter.com/maxime_tz)) and Simon ([@simonpetitjean](https://twitter.com/simonpetitjean)) joined the Cyber Security Advisory team at PwC Luxembourg in 2012 and 2013, respectively. Their favourite activities and assignments are penetration tests, information security advisory and computer forensics. When they have the occasion to perform vulnerability research or Security R&D, they are always delighted to present their results (Hack.lu 2012, 2013 and now 2015).
 
 Binary Constraint Solving with LLVM
 -----------------------------------
