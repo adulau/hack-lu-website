@@ -363,6 +363,28 @@ Crowdsourced Malware Triage! (2 hours)
 --------------------------------------
 by Sergei Frankoff, Sean Wilson
 
+Malware triage is an important function in any mature incident response program; the process of quickly analyzing potentially malicious files or URLs to determine if your organization has exposure. But what if you don't have an incident response program? What if you are just setting one up? What if you don't have the tools you need to perform your analysis? With the current offering of free online tools and the right mindset, a web browser and a notepad may be all you need.  
+
+In this workshop you will work through the triage of a live Exploit Kit using only free online tools. We will provide an introduction and demo of each tool and support you as you perform your analysis.
+
+This workshop is aimed at junior incident responders, hobby malware analysts, and general security or IT practitioners who are interested in learning more about the malware triage process. If you have no experience with malware analysis but you are a strong developer and understand web technologies such as Javascript and Flash you should have no problem completing the workshop.
+
+In order to participate in this workshop you will need the following:
+ - Laptop with a modern web browser and a text editor.  
+ - For the text editor Notepad.exe will work but you will have more fun if it has syntax highlighting. Try Notepad++ or SublimeText. 
+ - Good Internet connection! 
+
+Bio: Sergei Frankoff
+--------------------
+
+Sergei Frankoff is a malware researcher and the Director of Threat Intelligence at Sentrant. His current focus is ad-fraud malware and the ecosystems that support modern ad-fraud. Prior to joining Sentrant Sergei worked as an incident responder and a security analyst. Sergei is a strong believer in taking an open, community approach to combating cyber crime. He actively contributes to open source tools and tries to publish as much as possible. You can find him on twitter as [@herrcore](https://www.twitter.com/herrcore).
+
+Bio: Sean Wilson
+----------------
+
+Sean is an incident responder and malware researcher currently focused on tracking botnet and other crimeware based malware. He is also an active contributor to open source security tools focused on incident response. Previously Sean has worked in a number of application security roles with a focus on security testing and threat modelling. He also loves fly fishing.
+
+
 Analyzing Malicious Office Documents (2 hours)
 ----------------------------------------------
 by Didier Stevens
