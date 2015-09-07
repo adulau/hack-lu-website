@@ -257,6 +257,24 @@ Bio: Joan Calvet
 
 Joan Calvet is a malware researcher working at ESET, where he is mainly involved into in-depth malware investigations. He defended his Ph.D. thesis in 2013, and has spoken at security conferences such as REcon, Virus Bulletin and DeepSec.
 
+HackingTeam - how they infected your Android device by 0days
+------------------------------------------------------------
+by Attila Marosi
+
+There is no need to make a long introduction when speaking about the famous Remote Control System (RCS), the product of the Italian company Hacking Team. The huge amount - 400 Gb - of leaked data gives rise to lengthy discussion and is extremely concerning for every part of the professionally, politically or even those superficially interested only.
+
+This presentation has three parts: The first is a quick introduction, what the concept and the environment look like (Exploit Delivery Network - Android, Fake App Store...), how the malware was delivered to the targets; and how the infected devices were controlled through the proxy chain.
+
+The second is a detailed analysis of the exploits which were used to infect Android devices. I will give a step-by-step description of the installation (infection) process. Hacking Team has many 0day exploits to install the application and to elevate privileges on those devices. These exploits will also be presented. The third part is a collection of the interesting techniques that were used to keep the application as silent and undetectable as possible (VM and Cuckoo evasion, Anti-Virus detection project… etc.).
+
+Bio: Attila Marosi
+------------------
+
+Attila Marosi has always been working in information security field since he started in IT. As a lieutenant of active duty he worked for almost a decade on special information security tasks occurring within the Special Service for National Security. Later he was transferred to the newly established GovCERT-Hungary, which is an additional national level in the internationally known system of CERT offices. Now he works for the SophosLab as a Senior Threat Researcher in the Emerging Thread Team to provid novel solution for the newest threats.
+
+Attila has several international certificates such as CEH, ECSA, OSCP, OSCE. During his free time he is reading lections and does some teaching on different levels; on the top of them for white hat hackers. He presented on many security conferences including hack.lu, DeepSEC, AusCERT, Hacktivity, Troopers, HackerHalted and NullCon.
+
+
 How digital forensics met threat intelligence
 ---------------------------------------------
 by Ronan Mouchoux, Thomas Chopitea
