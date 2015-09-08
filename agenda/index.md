@@ -25,13 +25,13 @@ Tuesday 20 October 2015 (Talks)
 | 11:15 | |
 | 12:00 | Lunch |
 | 13:00 | Lightning talks|
-| 13:30 | Security Design and High-Risk Users (Eleanor Saitta) |
-| 14:15 | Totally Spies! (Marion Marschalek, Paul Rascagnères, Joan Calvet)|
-| 15:00 | HackingTeam - how they infected your Android device by 0days (Attila Marosi)|
+| 13:30 | [Security Design and High-Risk Users](http://2015.hack.lu/talks/#security-design-and-high-risk-users) (Eleanor Saitta) |
+| 14:15 | [Totally Spies!](http://2015.hack.lu/talks/#totally-spies) (Marion Marschalek, Paul Rascagnères, Joan Calvet)|
+| 15:00 | [HackingTeam - how they infected your Android device by 0days](http://2015.hack.lu/talks/#hackingteam---how-they-infected-your-android-device-by-0days) (Attila Marosi)|
 | 15:45 | Refreshment break |
-| 16:00 | How digital forensics met threat intelligence (Ronan Mouchoux, Thomas Chopitea)|
-| 16:45 | Scrutinizing WPA2 Password Generating Algorithms in Wireless Routers (Eduardo Novella)|
-| 17:30 | Stegosploit - Delivering Drive-By Exploits With Only Images (Saumil Shah)|
+| 16:00 | [How digital forensics met threat intelligence](http://2015.hack.lu/talks/#how-digital-forensics-met-threat-intelligence) (Ronan Mouchoux, Thomas Chopitea)|
+| 16:45 | [Scrutinizing WPA2 Password Generating Algorithms in Wireless Routers](http://2015.hack.lu/talks/#scrutinizing-wpa2-password-generating-algorithms-in-wireless-routers) (Eduardo Novella)|
+| 17:30 | [Stegosploit - Delivering Drive-By Exploits With Only Images](http://2015.hack.lu/talks/#stegosploit---delivering-drive-by-exploits-with-only-images) (Saumil Shah)|
 | 18:15 | |
 {: class="table"}
 
@@ -66,7 +66,7 @@ Thursday 22 October 2015 (Talks)
 | 09:30 | Improving Flash Exploits Analysis (Tillmann Werner)|
 | 10:15 | Refreshment break |
 | 10:30 | Binary Constraint Solving with LLVM (Sophia D’Antoine)|
-| 11:15 | |
+| 11:15 | They Hate Us ‘Cause They Ain’t Us - How We Broke the Internet (Netanel Rubin)|
 | 12:00 | Lunch |
 | 13:00 | Lightning talks|
 | 13:30 | |
