@@ -215,6 +215,20 @@ Bio: Thomas Chopitea
 
 Thomas Chopitea is an incident handler at CERT Société Générale. His day-to-day tasks revolve around incident response (duh), digital forensic investigations, malware analysis (including some reverse engineering late at night), and creating tools that can actually be used by humans. Thomas is one of the core developers of FIR, CERT Société Générale's open-source incident management platform and Malcom, a malware communication analysis and threat intelligence tool he introduced during Botconf2013.
 
+Security Design and High-Risk Users
+-----------------------------------
+
+Security is a property of human outcomes, not technical systems. The security community understands how to think about the security of code and is learning how to think about the security of large systems, but has barely begun to start to think about how to improve security outcomes for humans. Security for humans affects the entire software development and deployment lifecycle, but it's most strongly present in the design and requirements phase where it has been largely ignored by the security community. The need for outcome-oriented security design is particularly obvious in the design of systems intended for use by high-risk, specifically-targeted users. In this talk, we'll describe the security design problem, the challenges of supporting high-risk users, and some steps toward practical processes and solutions for the missing discipline in the security community.
+
+Bio: Eleanor Saitta
+-------------------
+
+Eleanor Saitta is a freelance security consultant specializing in architectural security for large-scale systems, integrating security into the development lifecycle, and cross-domain security for news organizations and NGOs targeted by nation states. Her employers over the past 12 years include Bishop Fox, IOActive, Security Innovation, and iSEC Partners.
+Eleanor is a co-founder and developer for [Trike](http://octotrike.org/), an open source threat modeling methodology and tool which partially automates the art of security analysis and also contributes to the [Briar](https://briarproject.org) and [Mailpile](https://mailpile.is) secure messaging projects.
+
+Eleanor is a regular speaker at industry conferences; past venues include ToorCon, CCC, Hack in The Box, and HOPE.
+
+Twitter: [@Dymaxion](https://twitter.com/Dymaxion)
 
 Stegosploit - Delivering Drive-By Exploits With Only Images
 -----------------------------------------------------------
