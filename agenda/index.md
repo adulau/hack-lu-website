@@ -14,6 +14,8 @@ Talk Agenda
 Tuesday 20 October 2015 (Talks)
 -------------------------------
 
+{: class="table table-striped"}
+
 | Time | Talks and Speakers |
 |:----:|:------------------:|
 | 08:45 | Registration open - refreshement |
