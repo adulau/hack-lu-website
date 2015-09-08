@@ -14,7 +14,6 @@ Talk Agenda
 Tuesday 20 October 2015 (Talks)
 -------------------------------
 
-{: class="table table-striped"}
 | Time | Talks and Speakers |
 |:----:|:------------------:|
 | 08:45 | Registration open - refreshement |
@@ -32,6 +31,7 @@ Tuesday 20 October 2015 (Talks)
 | 16:45 | Scrutinizing WPA2 Password Generating Algorithms in Wireless Routers (Eduardo Novella)|
 | 17:30 | Stegosploit - Delivering Drive-By Exploits With Only Images (Saumil Shah)|
 | 18:15 | |
+{: class="table"}
 
 Wednesday 21 October 2015 (Talks)
 ---------------------------------
