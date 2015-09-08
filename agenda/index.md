@@ -25,7 +25,7 @@ Tuesday 20 October 2015 (Talks)
 | 11:15 | |
 | 12:00 | Lunch |
 | 13:00 | Lightning talks|
-| 13:30 | [Security Design and High-Risk Users](http://2015.hack.lu/talks/#security-design-and-high-risk-users) (Eleanor Saitta) |
+| 13:30 | [Security Design and High-Risk Users](http://2015.hack.lu/talks/#security-design-and-high-risk-users) ([Eleanor Saitta](http://2015.hack.lu/talks/#bio-eleanor-saitta)) |
 | 14:15 | [Totally Spies!](http://2015.hack.lu/talks/#totally-spies) ([Marion Marschalek](http://2015.hack.lu/talks/#bio-marion-marschalek), [Paul Rascagnères](http://2015.hack.lu/talks/#bio-paul-rascagnres), [Joan Calvet](http://2015.hack.lu/talks/#bio-joan-calvet))|
 | 15:00 | [HackingTeam - how they infected your Android device by 0days](http://2015.hack.lu/talks/#hackingteam---how-they-infected-your-android-device-by-0days) ([Attila Marosi](http://2015.hack.lu/talks/#bio-attila-marosi))|
 | 15:45 | Refreshment break |
