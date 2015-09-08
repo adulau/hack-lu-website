@@ -300,7 +300,7 @@ Thomas Chopitea is an incident handler at CERT Société Générale. His day-to-
 
 They Hate Us 'Cause They Ain't Us - How We Broke the Internet
 -------------------------------------------------------------
-by Netanel
+by Netanel Rubin
 
 The InfoSec community likes to argue. From conference ethics & dress codes, through disclosure policies, the security of open/closed source software, and whether vulnerabilities should be allowed fancy names and logos. Thankfully, nobody argues with 0-days, that's why we found a dozen of them, In the most popular web applications in the world.
 
@@ -311,8 +311,8 @@ Starting with the MediaWiki vulnerability (RCE on wikipedia.org) we discovered l
 For each vulnerability, we will explore the context of the vulnerable code, looking through the eyes of the developer, and witness the true absurdity of the secure coding fallacy.
 We'll show that no matter how much money is spent on security, despite security awareness training sessions and rigorous code reviews, vulnerabilities still exist in the most secure code, simply because developers just don't have the privilege of thinking like hackers.
 
-Bio: Netanel
-------------
+Bio: Netanel Rubin
+------------------
 
 Netanel is a senior vulnerability researcher that has several significant findings under his belt. Starting his security career at the age of 16, Netanel performed security assessments for many international companies and organizations, including banks and government offices.
 Following a meaningful military service in the IDF elite intelligence unit 8200, he joined Check Point Software Technologies, and later on PerimeterX.
