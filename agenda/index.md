@@ -42,7 +42,7 @@ Wednesday 21 October 2015 (Talks)
 |:----:|:------------------:|
 | 08:45 | Draw me a Local Kernel Debugger (Samuel Chevet, Clément Rouault)|
 | 09:30 | Security of Virtual Desktop Infrastructures: from great concepts to bad surprises (Maxime Clementz, Simon Petitjean)|
-| 10:15 | Binary Constraint Solving with LLVM (Sophia D’Antoine)|
+| 10:15 | Refreshment break|
 | 10:30 | Advances in Secure Messaging Protocols (Frederic Jacobs)|
 | 11:15 | How not to build an electronic voting system (Quentin Kaiser)|
 | 12:00 | Lunch |
@@ -64,8 +64,8 @@ Thursday 22 October 2015 (Talks)
 |:----:|:------------------:|
 | 08:45 | Why Johnny Can’t Unpack: Toward One Click Unpacking (Shift)|
 | 09:30 | Improving Flash Exploits Analysis (Tillmann Werner)|
-| 10:15 | |
-| 10:30 | |
+| 10:15 | Refreshment break |
+| 10:30 | Binary Constraint Solving with LLVM (Sophia D’Antoine)|
 | 11:15 | |
 | 12:00 | Lunch |
 | 13:00 | Lightning talks|
