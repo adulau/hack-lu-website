@@ -26,12 +26,12 @@ Tuesday 20 October 2015 (Talks)
 | 12:00 | Lunch |
 | 13:00 | Lightning talks|
 | 13:30 | [Security Design and High-Risk Users](http://2015.hack.lu/talks/#security-design-and-high-risk-users) (Eleanor Saitta) |
-| 14:15 | [Totally Spies!](http://2015.hack.lu/talks/#totally-spies) (Marion Marschalek, Paul Rascagnères, Joan Calvet)|
-| 15:00 | [HackingTeam - how they infected your Android device by 0days](http://2015.hack.lu/talks/#hackingteam---how-they-infected-your-android-device-by-0days) (Attila Marosi)|
+| 14:15 | [Totally Spies!](http://2015.hack.lu/talks/#totally-spies) ([Marion Marschalek](http://2015.hack.lu/talks/#bio-marion-marschalek), [Paul Rascagnères](http://2015.hack.lu/talks/#bio-paul-rascagnres), [Joan Calvet](http://2015.hack.lu/talks/#bio-joan-calvet))|
+| 15:00 | [HackingTeam - how they infected your Android device by 0days](http://2015.hack.lu/talks/#hackingteam---how-they-infected-your-android-device-by-0days) ([Attila Marosi](http://2015.hack.lu/talks/#bio-attila-marosi))|
 | 15:45 | Refreshment break |
-| 16:00 | [How digital forensics met threat intelligence](http://2015.hack.lu/talks/#how-digital-forensics-met-threat-intelligence) (Ronan Mouchoux, Thomas Chopitea)|
-| 16:45 | [Scrutinizing WPA2 Password Generating Algorithms in Wireless Routers](http://2015.hack.lu/talks/#scrutinizing-wpa2-password-generating-algorithms-in-wireless-routers) (Eduardo Novella)|
-| 17:30 | [Stegosploit - Delivering Drive-By Exploits With Only Images](http://2015.hack.lu/talks/#stegosploit---delivering-drive-by-exploits-with-only-images) (Saumil Shah)|
+| 16:00 | [How digital forensics met threat intelligence](http://2015.hack.lu/talks/#how-digital-forensics-met-threat-intelligence) ([Ronan Mouchoux](http://2015.hack.lu/talks/#bio-ronan-mouchoux), [Thomas Chopitea](http://2015.hack.lu/talks/#bio-thomas-chopitea))|
+| 16:45 | [Scrutinizing WPA2 Password Generating Algorithms in Wireless Routers](http://2015.hack.lu/talks/#scrutinizing-wpa2-password-generating-algorithms-in-wireless-routers) ([Eduardo Novella](http://2015.hack.lu/talks/#bio-eduardo-novella))|
+| 17:30 | [Stegosploit - Delivering Drive-By Exploits With Only Images](http://2015.hack.lu/talks/#stegosploit---delivering-drive-by-exploits-with-only-images) ([Saumil Shah](http://2015.hack.lu/talks/#bio-saumil-shah))|
 | 18:15 | |
 {: class="table"}
 
@@ -40,20 +40,20 @@ Wednesday 21 October 2015 (Talks)
 
 | Time | Talks and Speakers |
 |:----:|:------------------:|
-| 08:45 | [Draw me a Local Kernel Debugger](http://2015.hack.lu/talks/#draw-me-a-local-kernel-debugger) (Samuel Chevet, Clément Rouault)|
-| 09:30 | [Security of Virtual Desktop Infrastructures: from great concepts to bad surprises](http://2015.hack.lu/talks/#security-of-virtual-desktop-infrastructures-from-great-concepts-to-bad-surprises) (Maxime Clementz, Simon Petitjean)|
+| 08:45 | [Draw me a Local Kernel Debugger](http://2015.hack.lu/talks/#draw-me-a-local-kernel-debugger) ([Samuel Chevet](http://2015.hack.lu/talks/#bio-samuel-chevet), [Clément Rouault](http://2015.hack.lu/talks/#bio-clement-rouault))|
+| 09:30 | [Security of Virtual Desktop Infrastructures: from great concepts to bad surprises](http://2015.hack.lu/talks/#security-of-virtual-desktop-infrastructures-from-great-concepts-to-bad-surprises) ([Maxime Clementz, Simon Petitjean](http://2015.hack.lu/talks/#bio-maxime-clementz--simon-petitjean))|
 | 10:15 | Refreshment break|
-| 10:30 | [Advances in Secure Messaging Protocols](http://2015.hack.lu/talks/#advances-in-secure-messaging-protocols) (Frederic Jacobs)|
-| 11:15 | [How not to build an electronic voting system](http://2015.hack.lu/talks/#how-not-to-build-an-electronic-voting-system) (Quentin Kaiser)|
+| 10:30 | [Advances in Secure Messaging Protocols](http://2015.hack.lu/talks/#advances-in-secure-messaging-protocols) ([Frederic Jacobs](http://2015.hack.lu/talks/#bio-frederic-jacobs))|
+| 11:15 | [How not to build an electronic voting system](http://2015.hack.lu/talks/#how-not-to-build-an-electronic-voting-system) ([Quentin Kaiser](http://2015.hack.lu/talks/#bio-quentin-kaiser))|
 | 12:00 | Lunch |
 | 13:00 | Lightning talks|
-| 13:30 | [Keynote - Unpatchable: Living with a Vulnerable Implanted Device](http://2015.hack.lu/talks/#keynote---unpatchable-living-with-a-vulnerable-implanted-device) (Marie Moe)|
-| 14:15 | [Trusting Files Formats: Illusions or Reality?](http://2015.hack.lu/talks/#trusting-files-formats-illusions-or-reality) (Ange Albertini)|
-| 15:00 | [How Mobile Applications Are Redefining Information Controls Inside of Iran](http://2015.hack.lu/talks/#how-mobile-applications-are-redefining-information-controls-inside-of-iran) (Mahsa Alimardani)|
+| 13:30 | [Keynote - Unpatchable: Living with a Vulnerable Implanted Device](http://2015.hack.lu/talks/#keynote---unpatchable-living-with-a-vulnerable-implanted-device) ([Marie Moe](http://2015.hack.lu/talks/#bio-marie-moe))|
+| 14:15 | [Trusting Files Formats: Illusions or Reality?](http://2015.hack.lu/talks/#trusting-files-formats-illusions-or-reality) ([Ange Albertini](http://2015.hack.lu/talks/#bio-ange-albertini))|
+| 15:00 | [How Mobile Applications Are Redefining Information Controls Inside of Iran](http://2015.hack.lu/talks/#how-mobile-applications-are-redefining-information-controls-inside-of-iran) ([Mahsa Alimardani](http://2015.hack.lu/talks/#bio-mahsa-alimardani))|
 | 15:45 | Refreshment break |
-| 16:00 | [Geek usages for your Fitbit Flex tracker](http://2015.hack.lu/talks/#geek-usages-for-your-fitbit-flex-tracker) (Axelle Apvrille) |
-| 16:45 | [Key-Logger, Video, Mouse - How to turn your KVM into a raging key-logging monster](http://2015.hack.lu/talks/#key-logger-video-mouse---how-to-turn-your-kvm-into-a-raging-key-logging-monster) (Yaniv Balmas, Lior Oppenheim)|
-| 17:30 | [Keys? Where we’re going, we don’t need keys](http://2015.hack.lu/talks/#keys-where-were-going-we-dont-need-keys) (Damien Cauquil)|
+| 16:00 | [Geek usages for your Fitbit Flex tracker](http://2015.hack.lu/talks/#geek-usages-for-your-fitbit-flex-tracker) ([Axelle Apvrille](http://2015.hack.lu/talks/#bio-axelle-apvrille)) |
+| 16:45 | [Key-Logger, Video, Mouse - How to turn your KVM into a raging key-logging monster](http://2015.hack.lu/talks/#key-logger-video-mouse---how-to-turn-your-kvm-into-a-raging-key-logging-monster) ([Yaniv Balmas](http://2015.hack.lu/talks/#bio-yaniv-balmas), [Lior Oppenheim](http://2015.hack.lu/talks/#bio-lior-oppenheim))|
+| 17:30 | [Keys? Where we’re going, we don’t need keys](http://2015.hack.lu/talks/#keys-where-were-going-we-dont-need-keys) ([Damien Cauquil](http://2015.hack.lu/talks/#bio-damien-cauquil))|
 | 18:15 | |
 {: class="table"}
 
@@ -62,11 +62,11 @@ Thursday 22 October 2015 (Talks)
 
 | Time | Talks and Speakers |
 |:----:|:------------------:|
-| 08:45 | [Why Johnny Can’t Unpack: Toward One Click Unpacking](http://2015.hack.lu/talks/#why-johnny-cant-unpack-toward-one-click-unpacking) (Shift)|
-| 09:30 | [Improving Flash Exploits Analysis](http://2015.hack.lu/talks/#improving-flash-exploits-analysis) (Tillmann Werner)|
+| 08:45 | [Why Johnny Can’t Unpack: Toward One Click Unpacking](http://2015.hack.lu/talks/#why-johnny-cant-unpack-toward-one-click-unpacking) ([Shift](http://2015.hack.lu/talks/#bio-shift))|
+| 09:30 | [Improving Flash Exploits Analysis](http://2015.hack.lu/talks/#improving-flash-exploits-analysis) ([Tillmann Werner](http://2015.hack.lu/talks/#bio-tillmann-werner))|
 | 10:15 | Refreshment break |
-| 10:30 | [Binary Constraint Solving with LLVM](http://2015.hack.lu/talks/#binary-constraint-solving-with-llvm) (Sophia D’Antoine)|
-| 11:15 | [They Hate Us ‘Cause They Ain’t Us - How We Broke the Internet](http://2015.hack.lu/talks/#they-hate-us-cause-they-aint-us---how-we-broke-the-internet) (Netanel Rubin)|
+| 10:30 | [Binary Constraint Solving with LLVM](http://2015.hack.lu/talks/#binary-constraint-solving-with-llvm) ([Sophia D’Antoine](http://2015.hack.lu/talks/#bio-sophia-dantoine))|
+| 11:15 | [They Hate Us ‘Cause They Ain’t Us - How We Broke the Internet](http://2015.hack.lu/talks/#they-hate-us-cause-they-aint-us---how-we-broke-the-internet) ([Netanel Rubin](http://2015.hack.lu/talks/#bio-netanel-rubin))|
 | 12:00 | Lunch |
 | 13:00 | Lightning talks|
 | 13:30 | |
