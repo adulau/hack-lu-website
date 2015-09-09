@@ -89,12 +89,13 @@ Tuesday 20 October 2015 (Workshops)
 |:----:|:----------:|:----------------------:|:--------:|
 | 09:00 | | | |
 | 09:30 | | | |
-| 10:15 | Refreshment break|
+| 10:15 | |||
 | 10:30 | | | |
-| 12:00 | Lunch break|
+| 12:00 | |||
 | 13:00 |  | | |
-| 13:30 |reserved room |BTA: an open-source Active Directory security audit framework (Joffrey Czarny) ca. 2 h| |
-| 15:45 | Refreshment break |
+| 13:30 |reserved room |BTA: an open-source Active Directory security audit framework (Joffrey Czarny) *ca. 2 h*| |
+| 15:45 |  |Refreshment break||
+| 16:00 || end of workshop ||
 {: class="table"}
 
 Wednesday 21 October 2015 (Workshops)
@@ -103,13 +104,13 @@ Wednesday 21 October 2015 (Workshops)
 | Time | Ansembourg | Fischbach - Echternach | Diekirch |
 |:----:|:----------:|:----------------------:|:--------:|
 | 09:00 | | | |
-| 09:30 |Hack, brute, root, crash… and start again ! 100% hands-on workshop (Guillaume Prigent, Adrien Barchapt) | Malcom Workshop (Sebastien Larinier and Thomas Chopitea) | |
-| 10:15 | Refreshment break |
-| 10:30 | continue workshops |
-| 12:00 | Lunch break |
+| 09:30 |Hack, brute, root, crash… and start again ! 100% hands-on workshop (Guillaume Prigent, Adrien Barchapt) *ca. 2 h*| Malcom Workshop (Sebastien Larinier and Thomas Chopitea) *ca. 2 h* | |
+| 10:15 | Refreshment break | Refreshment break||
+| 10:30 | continue workshop | continue workshops||
+| 12:00 | Lunch break | Lunch break||
 | 13:00 | || |
-| 13:30 |Crowdsourced Malware Triage! (Sergei Frankoff, Sean Wilson) ca. 2 h | Dr. Honeypots or: How I Learned to Stop Worrying and Love My Enemies (Guillaume Arcas, Lukas Rist) ca. 4 h| |
-| 15:45 | Refreshment break |
+| 13:30 |Crowdsourced Malware Triage! (Sergei Frankoff, Sean Wilson) *ca. 2 h* | Dr. Honeypots or: How I Learned to Stop Worrying and Love My Enemies (Guillaume Arcas, Lukas Rist) *ca. 4 h*| |
+| 15:45 | Refreshment break | Refreshment break||
 | 16:00 | end of workshop |workshop continued | |
 | 18:00 | | end of workshop |
 {: class="table"}
@@ -120,10 +121,10 @@ Thursday 22 October 2015 (Workshops)
 | Time | Ansembourg | Fischbach - Echternach | Diekirch |
 |:----:|:----------:|:----------------------:|:--------:|
 | 09:00 | | | |
-| 09:30 | Analyzing Malicious Office Documents (Didier Stevens) ca. 2 h| | |
-| 10:15 | Refreshment break |
-| 10:30 | continue workshop |
-| 12:00 | Lunch break |
+| 09:30 | Analyzing Malicious Office Documents (Didier Stevens) *ca. 2 h*| | |
+| 10:15 | Refreshment break |||
+| 10:30 | continue workshop |||
+| 12:00 | Lunch break |||
 | 13:00 | | | |
 | 13:30 | | | |
 | 14:20 | | | |
