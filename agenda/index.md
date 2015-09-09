@@ -88,12 +88,12 @@ Tuesday 20 October 2015 (Workshops)
 | Time | Ansembourg | Fischbach - Echternach | Diekirch |
 |:----:|:----------:|:----------------------:|:--------:|
 | 09:00 | | | |
-| 09:30 |Hack, brute, root, crash… and start again ! 100% hands-on workshop (Guillaume Prigent, Adrien Barchapt) *ca. 2 h* | Analyzing Malicious Office Documents (Didier Stevens) *ca. 2 h*| Malcom Workshop (Sebastien Larinier and Thomas Chopitea) *ca. 2 h*|
+| 09:30 |[Hack, brute, root, crash… and start again! 100% hands-on workshop](http://2015.hack.lu/talks/#hack-brute-root-crash-and-start-again--100-hands-on-workshop) (Guillaume Prigent, Adrien Barchapt) *ca. 2 h* | [Analyzing Malicious Office Documents](http://2015.hack.lu/talks/#analyzing-malicious-office-documents-2-hours) (Didier Stevens) *ca. 2 h*| [Malcom Workshop](http://2015.hack.lu/talks/#malcom-workshop-2-hours) (Sebastien Larinier and Thomas Chopitea) *ca. 2 h*|
 | 10:15 | Refreshment break | Refreshment break|Refreshment break|
 | 10:30 | continue workshop | continue workshop|continue workshop|
 | 12:00 | Lunch break | Lunch break|Lunch break|
 | 13:00 |  | | |
-| 13:30 | |BTA: an open-source Active Directory security audit framework (Joffrey Czarny) *ca. 2 h*| |
+| 13:30 | |[BTA: an open-source Active Directory security audit framework](http://2015.hack.lu/talks/#workshop-bta-an-open-source-active-directory-security-audit-framework-2-hours) (Joffrey Czarny) *ca. 2 h*| |
 | 15:45 |  |Refreshment break||
 | 16:00 || end of workshop ||
 {: class="table"}
@@ -109,7 +109,7 @@ Wednesday 21 October 2015 (Workshops)
 | 10:30 | continue workshop | continue workshop||
 | 12:00 | Lunch break | Lunch break||
 | 13:00 | || |
-| 13:30 |Crowdsourced Malware Triage! (Sergei Frankoff, Sean Wilson) *ca. 2 h* | Dr. Honeypots or: How I Learned to Stop Worrying and Love My Enemies (Guillaume Arcas, Lukas Rist) *ca. 4 h*| |
+| 13:30 |[Crowdsourced Malware Triage!](http://2015.hack.lu/talks/#crowdsourced-malware-triage-2-hours) (Sergei Frankoff, Sean Wilson) *ca. 2 h* | [Dr. Honeypots or: How I Learned to Stop Worrying and Love My Enemies](http://2015.hack.lu/talks/#dr-honeypots-or-how-i-learned-to-stop-worrying-and-love-my-enemies-4-hours) (Guillaume Arcas, Lukas Rist) *ca. 4 h*| |
 | 15:45 | Refreshment break | Refreshment break||
 | 16:00 | end of workshop |workshop continued | |
 | 18:00 | | end of workshop |
