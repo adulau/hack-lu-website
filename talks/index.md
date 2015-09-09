@@ -447,7 +447,7 @@ by Didier Stevens
 
 Dr. Honeypots or: How I Learned to Stop Worrying and Love My Enemies (4 hours)
 ------------------------------------------------------------------------------
-by Guillaume Arcas, Lukas RIST
+by Guillaume Arcas, Lukas Rist
 
 
 Hack, brute, root, crash... and start again ! 100% hands-on workshop
