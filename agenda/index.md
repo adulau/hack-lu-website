@@ -105,9 +105,9 @@ Wednesday 21 October 2015 (Workshops)
 |:----:|:----------:|:----------------------:|:--------:|
 | 09:00 | | | |
 | 09:30 ||  | |
-| 10:15 | Refreshment break | Refreshment break||
-| 10:30 | continue workshop | continue workshop||
-| 12:00 | Lunch break | Lunch break||
+| 10:15 |  | ||
+| 10:30 |  | ||
+| 12:00 |  | ||
 | 13:00 | || |
 | 13:30 |[Crowdsourced Malware Triage!](http://2015.hack.lu/talks/#crowdsourced-malware-triage-2-hours) ([Sergei Frankoff](http://2015.hack.lu/talks/#bio-sergei-frankoff), [Sean Wilson](http://2015.hack.lu/talks/#bio-sean-wilson)) *ca. 2 h* | [Dr. Honeypots or: How I Learned to Stop Worrying and Love My Enemies](http://2015.hack.lu/talks/#dr-honeypots-or-how-i-learned-to-stop-worrying-and-love-my-enemies-4-hours) (Guillaume Arcas, Lukas Rist) *ca. 4 h*| |
 | 15:45 | Refreshment break | Refreshment break||
