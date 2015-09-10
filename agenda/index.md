@@ -92,10 +92,11 @@ Tuesday 20 October 2015 (Workshops)
 | 10:15 | Refreshment break | Refreshment break|Refreshment break|
 | 10:30 | continue workshop | continue workshop|continue workshop|
 | 12:00 | Lunch break | Lunch break|Lunch break|
-| 13:00 | Lightning talks | Lightning talks|Lightning talks |
-| 13:30 | |[BTA: an open-source Active Directory security audit framework](http://2015.hack.lu/talks/#workshop-bta-an-open-source-active-directory-security-audit-framework-2-hours) ([Joffrey Czarny](http://2015.hack.lu/talks/#bio-joffrey-czarny)) *ca. 2 h*| |
-| 15:45 |  |Refreshment break||
-| 16:00 || end of workshop ||
+| 13:00 | Lightning talks  | Lightning talks|Lightning talks |
+| 13:30 | Radare *ca. 4 h* |[BTA: an open-source Active Directory security audit framework](http://2015.hack.lu/talks/#workshop-bta-an-open-source-active-directory-security-audit-framework-2-hours) ([Joffrey Czarny](http://2015.hack.lu/talks/#bio-joffrey-czarny)) *ca. 2 h*| |
+| 15:45 | Refreshment break |Refreshment break||
+| 16:00 |workshop continued| end of workshop ||
+| 18:00 |end of workshop| end of workshop ||
 {: class="table"}
 
 Wednesday 21 October 2015 (Workshops)
@@ -126,12 +127,9 @@ Thursday 22 October 2015 (Workshops)
 | 10:30 |  ||||
 | 12:00 |  ||||
 | 13:00 |Lightning talks |Lightning talks | Lightning talks|Lightning talks |
-| 13:30 | | | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
-| 14:20 | | | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
-| 15:40 | | | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
-| 16:00 | | | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
-| 16:50 | | | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
-| 17:30 | | | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
-| 18:00 | | | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
+| 13:30 | Radare *ca. 4 h*| | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
+| 15:45 | Refreshment break| | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
+| 16:00 | workshop continued| | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
+| 18:00 | end of workshop| | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
 {: class="table"}
 
