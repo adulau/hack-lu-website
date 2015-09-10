@@ -514,3 +514,63 @@ Bio: Joffrey Czarny
 
 Joffrey Czarny is working for Airbus Group Innovations (FR) as a security researcher. Since 2001, Joffrey is a pentester who has released advisories on VoIP Cisco products and spoken at various security-focused conferences (Hack.lu ITunderground, Hacktivity, HITB,  SSTIC, BlackHat Arsenal...). On his spare time, Joffrey is co-organizer of NoSuchCon (Paris) conference.
 
+
+Workshop: Radare2 - a framework for reverse engineering (4 hours)
+-----------------------------------------------------------------
+by Julien Voisin, Anton Kochkov, Maxime Morin, Jeffrey Crowelll
+
+Radare2 is a complete framework dedicated to reverse engineering.
+Written in C, completely portable, and released under LGPL, it's a
+tool of trade to deal with binaries in any form. A lot of people [1]
+are currently using it for a large panel of different purposes; binary
+exploitation, weird CPU architecture reversing, binary diffing, ctf,
+emulation, ...
+
+But since it is a really complete tool without a GUI, it has a steep
+learning curve, hence this workshop.
+
+In this renewed and updated workshop we will also cover debugging
+techniques, using ESIL for the emulation, scripting with r2pipe,
+radare2 internals and how to modify/enhance it.
+
+Bio: Julien Voisin
+------------------
+
+Julien Voisin is a C/Python programmer who enjoys privacy,
+reverse-engineering and software security/exploitation. As a Free
+Software enthusiast, he contributes to several cool projects, like
+Radare2, libotr, Tails, ...
+
+
+Bio: Anton Kochkov
+------------------
+
+Anton Kochkov (xvilka) is a reverse engineer and a lead developer in
+SecurityCode Ltd. Core member of radare2, coreboot and MEre projects.
+His main interest - is a research of the early booting stages of
+computers (including embedded and mobile ones) and various firmware,
+especially for the x86 and ARM architectures.
+
+
+Bio: Maxime Morin
+-----------------
+
+Maxime Morin is the freshly new team leader of Malware.lu CERT, the
+first private CERT (Computer Emergency Response Team) in Luxembourg.
+He is fighting against the intentional blur in the industry and
+against meaningless terminology unfortunately used too often and
+widely. This struggle also involves a better understanding of the
+world of IT security and a better vulgarisation
+of the Science in General. During his studies he founded the first
+hackerspace in the Franche-Comté region, located in Belfort, France:
+HackGyver. It allows exchanges and cooperation between enthusiasts as
+well as the appropriation of technologies by many people interested in
+the field of IT Security.
+
+Bio: Jeffrey Crowell
+--------------------
+
+Jeff is a software engineer at Google in Cambridge, MA, USA. He spends
+his free time playing CTF with Shellphish, running Boston Key Party,
+and of course, contributing to radare2.
+
