@@ -278,7 +278,16 @@ A Collective View of Current Trends in Criminal Hosting Infrastructures
 -----------------------------------------------------------------------
 by Dhia Mahjoub
 
-From new exploits and antivirus evasion techniques to traffic direction services and compromised data reselling: the digital crime landscape is in continuous progress. Despite the large variety of specialized and innovative cybercrime services, some of them such as domain names and bulletproof hosting are cross-functional since they are fundamental to practically all cyber criminal campaigns. Exploit kits are currently one of the most efficient malware delivery mechanisms. A successful Exploit kit infection chain drops anything from financial trojans, crypto-ransomware, to info-stealers and click-fraud or DDoS bots. Exploit kit landing domains are commonly hosted on bulletproof hosting providers or abused large providers. By leveraging our worldwide visibility into the attack surface in terms of DNS and IP space, we will present numerous new use cases of criminal hosting infrastructures used for botnet proxy networks and Exploit kits such as Angler, Nuclear, RIG, etc. We will present actionable intelligence collected for about two years worth of investigation that attendees can utilize in turn in mitigating malware. We will describe evolving patterns of TTPs used by adversaries in setting up their infrastructures for resilience and scale. Such patterns include improper peering relationships, offshore registration of hosting businesses, diversification of IP space across various RIRs, rogue ASNs and affiliated hosters, usage of compromised registrant accounts, hosting of EK landing domains on multiple IPs across dispersed hosters, etc.
+From new exploits and antivirus evasion techniques to traffic direction services and compromised data reselling: the digital crime landscape is in continuous progress.
+
+Despite the large variety of specialized and innovative cybercrime services, some of them such as domain names and bulletproof hosting are cross-functional since they are fundamental to practically all cyber criminal campaigns.
+
+Exploit kits are currently one of the most efficient malware delivery mechanisms. A successful Exploit kit infection chain drops anything from financial trojans, crypto-ransomware, to info-stealers and click-fraud or DDoS bots. Exploit kit landing domains are commonly hosted on bulletproof hosting providers or abused large providers.
+
+By leveraging our worldwide visibility into the attack surface in terms of DNS and IP space, we will present numerous new use cases of criminal hosting infrastructures used for botnet proxy networks and Exploit kits such as Angler, Nuclear, RIG, etc.
+
+We will share actionable intelligence collected for about two years worth of investigation that attendees can utilize in turn in mitigating malware.
+We will describe evolving patterns of TTPs used by adversaries in setting up their infrastructures for resilience and scale. Such patterns include improper peering relationships, offshore registration of hosting businesses, diversification of IP space across various RIRs, rogue ASNs and affiliated hosters, usage of compromised registrant accounts, hosting of EK landing domains on multiple IPs across dispersed hosters, etc.
 
 Bio: Dhia Mahjoub
 -----------------
