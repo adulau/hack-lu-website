@@ -118,20 +118,20 @@ Wednesday 21 October 2015 (Workshops)
 Thursday 22 October 2015 (Workshops)
 ------------------------------------
 
-| Time | Ansembourg | Fischbach - Echternach | Diekirch |
-|:----:|:----------:|:----------------------:|:--------:|
-| 09:00 | | | |
-| 09:30 | | | |
-| 10:15 |  |||
-| 10:30 |  |||
-| 12:00 |  |||
-| 13:00 |Lightning talks |Lightning talks | Lightning talks|
-| 13:30 | | | |
-| 14:20 | | | |
-| 15:40 | | | |
-| 16:00 | | | |
-| 16:50 | | | |
-| 17:30 | | | |
-| 18:00 | | | |
+| Time | Ansembourg | Fischbach - Echternach | Diekirch | Lunch area |
+|:----:|:----------:|:----------------------:|:--------:|:----------:|
+| 09:00 | | | ||
+| 09:30 | | | ||
+| 10:15 |  ||||
+| 10:30 |  ||||
+| 12:00 |  ||||
+| 13:00 |Lightning talks |Lightning talks | Lightning talks|Lightning talks |
+| 13:30 | | | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
+| 14:20 | | | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
+| 15:40 | | | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
+| 16:00 | | | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
+| 16:50 | | | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
+| 17:30 | | | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
+| 18:00 | | | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
 {: class="table"}
 
