@@ -41,6 +41,8 @@ Where?
 
 You will be able to join us during the hack.lu conference, a conference where people discuss about computer security, privacy and information technology.
 
+[Registration for the CryptoParty4Kids](http://www.eventbrite.com/e/cryptoparty4kids-at-hacklu-2015-tickets-18551088806).
+
 When?
 -----
 Hack.lu, Thursday the 22nd of October. From 16h00 to 17h30
@@ -48,4 +50,5 @@ Hack.lu, Thursday the 22nd of October. From 16h00 to 17h30
 What age?
 ---------
 This workshop is aimed at children aged from 8-12
+
 
