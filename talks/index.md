@@ -428,6 +428,27 @@ of threats. He loves combining scientific research with intelligence analysis an
 technologies and containment strategies for large-scale botnets. As a member of the Honeynet Project, Tillmann is actively involved with the
 global computer security community and is a regular speaker on the international conference circuit.
 
+
+No Need for Black Chambers: Testing TLS in the E-mail Ecosystem at Large
+------------------------------------------------------------------------
+by Aaron Zauner
+
+Abstract—TLS is the most widely used cryptographic protocol on the Internet. While many recent studies focused on its use in HTTPS, none so far analyzed TLS usage in e-mail related
+protocols, which often carry highly sensitive information. Since end-to-end encryption mechanisms like PGP are seldomly used,
+today confidentiality in the e-mail ecosystem is mainly based on the encryption of the transport layer. A well-positioned attacker
+may be able to intercept plaintext passively and at global scale.
+
+We collected and scanned a massive data-set of 20 million IP/port combinations of all related protocols (SMTP, POP3, IMAP) and legacy ports. Over a time span of approx. three months we conducted more than 10 billion TLS handshakes. Additionally, we show that securing server-to-server communication using e.g. SMTP is inherently more difficult than securing client-to- server communication. Lastly, we analyze the volatility of TLS certificates and trust anchors in the e-mail ecosystem and argue that while the overall trend points in the right direction, there are still many steps needed towards secure e-mail.
+
+Bio: Aaron Zauner
+-----------------
+
+10+ years of engineering. Has seen the fallacies of distributed computing. Still enjoys working and researching in the industry. Loves tuning, scaling and securing of distributed systems - building on and contributing to great Free & Open Source Software. Above all: getting to meet brilliant people, exchange ideas and work on exciting projects all the time!
+
+I am self-employed and primarily do engineering work, consulting and research on IT Infrastructure Architecture, Operations & Development, High Performance Computing and Information Security.
+
+I currently also work as a researcher at SBA-Research working on network security, applied cryptography, conducting Internet-wide surveys, attacking protocol implementations and proliferating cryptography.
+
 Workshops
 =========
 
