@@ -388,6 +388,18 @@ Saumil Shah is the founder and CEO of Net-Square, providing cutting edge informa
 Saumil graduated with an M.S. in Computer Science from Purdue University, USA and a B.E. in Computer Engineering from Gujarat University. He spends his leisure time breaking software, flying kites, travelling around the world and taking pictures.
 
 
+Crema: A LangSec-Inspired Programming Language
+----------------------------------------------
+by Jacob Torrey and Mark Bridgman
+
+We discuss the potential for significant reduction in size and complexity of verification tasks for input-handling software when such software follows the LangSec principles, i.e., is designed and compiled for a suitably limited computational model, no stronger than needed for the recognizer automaton of a particular language of inputs. Such a language, Crema is introduced and provided as open-source. We use parts of the qmail parsing code base compared to a restricted parsing environment as a case study, and LLVM and KLEE to estimate the size of its respective verification tasks. We also study the application of the same principles to the verification of reference monitors. Examples of programming with a provably-halting programming language are given as well as how to embed them into your existing programs.
+
+Bio: Jacob Torrey
+-----------------
+
+Bio: Mark Bridgman
+------------------
+
 Why Johnny Can't Unpack: Toward One Click Unpacking
 ---------------------------------------------------
 by Shift
