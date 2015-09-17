@@ -63,7 +63,7 @@ Thursday 22 October 2015 (Talks)
 | Time | Talks and Speakers |
 |:----:|:------------------:|
 | 08:45 | [Why Johnny Can’t Unpack: Toward One Click Unpacking](http://2015.hack.lu/talks/#why-johnny-cant-unpack-toward-one-click-unpacking) ([Shift](http://2015.hack.lu/talks/#bio-shift))|
-| 09:30 | [Forging the USB armory]() ([Andrea Barisani](http://2015.hack.lu/talks/#bio-andrea-barisani), [Daniele Bianco](http://2015.hack.lu/talks/#bio-daniele-bianco))|
+| 09:30 | [Forging the USB armory](http://2015.hack.lu/talks/#forging-the-usb-armory) ([Andrea Barisani](http://2015.hack.lu/talks/#bio-andrea-barisani), [Daniele Bianco](http://2015.hack.lu/talks/#bio-daniele-bianco))|
 | 10:15 | Refreshment break |
 | 10:30 | [Binary Constraint Solving with LLVM](http://2015.hack.lu/talks/#binary-constraint-solving-with-llvm) ([Sophia D’Antoine](http://2015.hack.lu/talks/#bio-sophia-dantoine))|
 | 11:15 | [They Hate Us ‘Cause They Ain’t Us - How We Broke the Internet](http://2015.hack.lu/talks/#they-hate-us-cause-they-aint-us---how-we-broke-the-internet) ([Netanel Rubin](http://2015.hack.lu/talks/#bio-netanel-rubin))|
