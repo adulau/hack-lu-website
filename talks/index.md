@@ -464,6 +464,48 @@ I currently also work as a researcher at SBA-Research working on network securit
 Workshops
 =========
 
+
+TrustZone on the USB armory (2 hours)
+-------------------------------------
+by Andrea Barisani and Daniele Bianco
+
+The workshop aims to introduce the fine details of the Freescale i.MX53
+TrustZone implementation, the SoC employed in the USB armory.
+
+The ARM(R) TrustZone(R) technology, in contrast to traditional TPMs, allows
+developers to engineer custom trusted platform modules by enforcing domain
+separation, between the "secure" and "normal" worlds, that propagates
+throughout System on a Chip (SoC) components, and therefore not only limited to
+the CPU core.
+
+The class leverages on the native TrustZone(R) support provided by the USB
+armory (http://inversepath.com/usbarmory) SoC to cover its theory,
+implementation, security evaluation and applications.
+
+Additionally the additional security features of the USB armory, such as Secure
+Boot and the INTERLOCK tool, will be explored in detail.
+
+Bio: Andrea Barisani
+--------------------
+
+Andrea Barisani is an internationally recognized security researcher. Since owning his first Commodore-64 he has never stopped studying new technologies, developing unconventional attack vectors and exploring what makes things tick...and break.
+
+His experiences focus on large-scale infrastructure defense, forensic analysis, penetration testing and code auditing with particular focus on safety critical environments, with more than 14 years of professional experience in security consulting.
+
+Being an active member of the international Open Source and security community he contributed to several projects, books and open standards. He is the founder of the oCERT effort, the Open Source Computer Security Incident Response Team.
+
+He is a well known international speaker, having presented at BlackHat, CanSecWest, Chaos Communication Congress, DEFCON, Hack In The Box, among many other conferences, speaking about innovative research on automotive hacking, side-channel attacks, payment systems, embedded system security and many other topics.
+
+Bio: Daniele Bianco
+-------------------
+
+Daniele Bianco holds a bachelor degree in Physics and began his professional career in world class scientific organizations. His interest in centralized management and software integration of Open Source environments had him focus his early work on design and development of suitable R&D infrastructures. Later on he joined to the private sector to become one of the co-founders of Inverse Path.
+
+One of his passions has always been exploring hardware and electronic devices. At Inverse Path he pioneered, ahead of its times, the development of embedded system security services. His primary activities range from side-channel and low level hardware attacks to application penetration testing.
+
+He is an active contributor to the Open Source community and an invited speaker at many international IT security events.
+
+
 Malcom Workshop (2 hours)
 -------------------------
 by Sebastien Larinier and Thomas Chopitea
