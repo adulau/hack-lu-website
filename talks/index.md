@@ -414,8 +414,12 @@ We discuss the potential for significant reduction in size and complexity of ver
 Bio: Jacob Torrey
 -----------------
 
+Advising Research Engineer at Assured Information Security, Inc. where he leads the Computer Architectures group and acts as the site lead for the Colorado branch. Jacob has worked extensively with low-level x86 and MCU architectures, having written a BIOS, OS, hypervisor and SMM handler. His major interest is how to (mis)use an existing architecture to implement a capability currently beyond the limitations of the architecture.
+
 Bio: Mark Bridgman
 ------------------
+
+A gentleman hacker: security researcher, C and assembly programmer.
 
 Why Johnny Can't Unpack: Toward One Click Unpacking
 ---------------------------------------------------
