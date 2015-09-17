@@ -63,7 +63,7 @@ Thursday 22 October 2015 (Talks)
 | Time | Talks and Speakers |
 |:----:|:------------------:|
 | 08:45 | [Why Johnny Can’t Unpack: Toward One Click Unpacking](http://2015.hack.lu/talks/#why-johnny-cant-unpack-toward-one-click-unpacking) ([Shift](http://2015.hack.lu/talks/#bio-shift))|
-| 09:30 | [Improving Flash Exploits Analysis](http://2015.hack.lu/talks/#improving-flash-exploits-analysis) ([Tillmann Werner](http://2015.hack.lu/talks/#bio-tillmann-werner))|
+| 09:30 | [Forging the USB armory]() (Andrea Barisani, Daniele Bianco)|
 | 10:15 | Refreshment break |
 | 10:30 | [Binary Constraint Solving with LLVM](http://2015.hack.lu/talks/#binary-constraint-solving-with-llvm) ([Sophia D’Antoine](http://2015.hack.lu/talks/#bio-sophia-dantoine))|
 | 11:15 | [They Hate Us ‘Cause They Ain’t Us - How We Broke the Internet](http://2015.hack.lu/talks/#they-hate-us-cause-they-aint-us---how-we-broke-the-internet) ([Netanel Rubin](http://2015.hack.lu/talks/#bio-netanel-rubin))|
@@ -73,7 +73,7 @@ Thursday 22 October 2015 (Talks)
 | 14:15 | [Crema: A LangSec-Inspired Programming Language](http://2015.hack.lu/talks/#crema-a-langsec-inspired-programming-language) ([Jacob Torrey](http://2015.hack.lu/talks/#bio-jacob-torrey), [Mark Bridgman](http://2015.hack.lu/talks/#bio-mark-bridgman))|
 | 15:00 | [No Need for Black Chambers: Testing TLS in the E-mail Ecosystem at Large](http://2015.hack.lu/talks/#no-need-for-black-chambers-testing-tls-in-the-e-mail-ecosystem-at-large) ([Aaron Zauner](http://2015.hack.lu/talks/#bio-aaron-zauner)) |
 | 15:45 | Refreshment break |
-| 16:00 | |
+| 16:00 | [Improving Flash Exploits Analysis](http://2015.hack.lu/talks/#improving-flash-exploits-analysis) ([Tillmann Werner](http://2015.hack.lu/talks/#bio-tillmann-werner))|
 | 16:45 | |
 | 17:30 | |
 | 18:15 | |
@@ -127,9 +127,9 @@ Thursday 22 October 2015 (Workshops)
 | 10:30 |  ||||
 | 12:00 |  ||||
 | 13:00 |Lightning talks |Lightning talks | Lightning talks|Lightning talks |
-| 13:30 | [Radare2 - a framework for reverse engineering](http://2015.hack.lu/talks/#workshop-radare2---a-framework-for-reverse-engineering-4-hours) *ca. 4 h*| | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
+| 13:30 | [Radare2 - a framework for reverse engineering](http://2015.hack.lu/talks/#workshop-radare2---a-framework-for-reverse-engineering-4-hours) *ca. 4 h*| TrustZone on the USB armory (Andrea Barisani, Daniele Bianco) *ca. 2 h*| |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
 | 15:45 | Refreshment break| | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
-| 16:00 | workshop continued| | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
+| 16:00 | workshop continued| workshop continued | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
 | 18:00 | end of workshop| | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
 {: class="table"}
 
