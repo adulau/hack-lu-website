@@ -557,6 +557,15 @@ Analyzing Malicious Office Documents (2 hours)
 ----------------------------------------------
 by Didier Stevens
 
+In this workshop (2 hours), I explain how to use the tools (oledump, emldump, YARA rules, …) I developed to analyze (malicious) Microsoft Office documents.
+
+I have around 30 exercises that explain step by step how to analyze malicious office documents with my Python tools. Microsoft Office is not required for the analysis.
+
+Bio: Didier Stevens
+-------------------
+
+Didier Stevens (Microsoft MVP Consumer Security, SANS ISC Handler, Wireshark Certified Network Analyst, CISSP, GSSP-C, GCIA, GREM, MCSD .NET, MCSE/Security, MCITP Windows Server 2008, RHCT, CCNP Security, OSWP) is an IT Security Consultant currently working at a large Belgian financial corporation. Didier started his own company in 2012 to provide IT security training services (http://DidierStevensLabs.com). You can find his open source security tools on his IT security related blog at http://blog.DidierStevens.com.
+
 Dr. Honeypots or: How I Learned to Stop Worrying and Love My Enemies (4 hours)
 ------------------------------------------------------------------------------
 by Guillaume Arcas, Lukas Rist
