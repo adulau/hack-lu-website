@@ -115,6 +115,23 @@ Lior Oppenheim is a vulnerability researcher in the Malware and Vulnerability Re
 Twitter: [@oppenheim1](https://www.twitter.com/oppenheim1)
 
 
+Forging the USB armory
+----------------------
+By Andrea Barisani and Daniele Bianco
+
+The availability of modern System on a Chip (SoC) parts, having low power consumption and high integration of most computer components in a single chip, empowers the open source community in creating all kind of embedded systems.
+
+The presentation illustrates the journey that we have taken to develop an open hardware board first of its kind: the USB armory, an open source hardware design, implementing a flash drive sized computer for security applications.
+
+The security features of the USB armory System on a Chip (SoC), combined with the openness of the board design, is meant to empower developers and users with a fully customizable USB trusted device for open and innovative personal security
+applications.
+
+The presentation explores the lessons learned in making a small form factor, high specifications, embedded device with solely open source tools, its architecture and security features such as secure boot and ARM TrustZone implementation.
+
+The security applications of the implemented concept are explored, illustrating the advantage of an open USB device with increased computational power.  
+The first open source application for the platform, developed by Inverse Path, for advanced file encryption functionality, will also be covered.
+
+
 Keys? Where we're going, we don't need keys
 -------------------------------------------
 by Damien Cauquil
