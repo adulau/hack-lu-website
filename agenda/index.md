@@ -133,3 +133,12 @@ Thursday 22 October 2015 (Workshops)
 | 18:00 | end of workshop| | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
 {: class="table"}
 
+
+Monday 19 October 2015 (Special interest pre-hack meeting)
+----------------------------------------------------------
+
+{: class="table table-striped"}
+
+| Time | Talks and Speakers |
+|:----:|:------------------:|
+| 14:00 - 17:00 | MISP summit || 
