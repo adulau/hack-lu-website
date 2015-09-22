@@ -545,6 +545,25 @@ Malcom Workshop (2 hours)
 -------------------------
 by Sebastien Larinier and Thomas Chopitea
 
+Malcom is an open source tool https://github.com/tomchop/malcom written in Python.
+
+This tool is used to better understand malware communications between malware samples and their C&C by sniffing or reading PCAPs and sharing IOC via an API.
+
+The goal of this workshop is to present the features of Malcom with different scenarii and plugins and explain public API interaction and plugin development.
+
+
+Bio Sebastien Larinier:
+-----------------------
+
+Sebastien Larinier: Sébastien Larinier currently is Senior Researcher and CTO at the CERT Sekoia located in Paris, member honeyproject chapter France and co organizer of botconf. Sébastien focused his work for the last 5 years on botnet hunting, early compromission detection, forensic and incident response. Python addict he supports different opensource projects like FastResponder, OSINT Framework,Malcom.
+
+Bio Thomas Chopitea:
+--------------------
+
+Thomas Chopitea is an incident handler at CERT Société Générale. His day-to-day tasks revolve around incident response (duh), digital forensic investigations, malware analysis (including some reverse engineering late at night), and creating tools that can actually be used by humans. Thomas is one of the core developers of FIR, CERT Société Générale’s open-source incident management platform and Malcom, a malware communication analysis and threat intelligence tool he introduced during Botconf2013.
+
+
+
 Crowdsourced Malware Triage! (2 hours)
 --------------------------------------
 by Sergei Frankoff, Sean Wilson
