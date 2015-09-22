@@ -34,11 +34,13 @@ Marie Moe is passionate about incident handling and information sharing, she car
 Keynote - Internet of Tchotchke
 -------------------------------
 by Paul Rascagnères
+
 In this presentation the author will describe his journey into the domain of reverse engineering hardware and embedded systems. He will explain why and how he discovered this domain, the "mandatory hardware", the different technologies and of course some important use cases:
-- analysis of an ATM skimmer
-- analysis of an encrypted hard drive + physical hack + software patching
-- analysis of an embedded Linux device
-- analysis of an embedded Windows 10 IoT device
+
+* analysis of an ATM skimmer
+* analysis of an encrypted hard drive + physical hack + software patching
+* analysis of an embedded Linux device
+* analysis of an embedded Windows 10 IoT device
 
 He will finish his presentation with the extension of his work to malware developers and targeted attacks. Some of these cases already exist: malware on the Internet backbone, custom firmware on payment terminals, custom firmware in network appliance, etc. -  What's next ?
 
