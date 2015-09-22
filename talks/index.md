@@ -31,6 +31,18 @@ Bio: Marie Moe
 Marie Moe is passionate about incident handling and information sharing, she cares about public safety and securing systems that may impact human lives, this is why she has joined the grassroots organisation “I Am The Cavalry". Marie is a research scientist at SINTEF ICT, and has a Ph. D. in information security. She has experience as a team leader at NorCERT, the Norwegian national CERT. Marie also teaches a class on incident management and contingency planning at Gjøvik University College in Norway. Marie loves to break crypto protocols, but gets angry when its in her own body.
 
 
+Keynote - Internet of Tchotchke
+-------------------------------
+by Paul Rascagnères
+In this presentation the author will describe his journey into the domain of reverse engineering hardware and embedded systems. He will explain why and how he discovered this domain, the "mandatory hardware", the different technologies and of course some important use cases:
+- analysis of an ATM skimmer
+- analysis of an encrypted hard drive + physical hack + software patching
+- analysis of an embedded Linux device
+- analysis of an embedded Windows 10 IoT device
+
+He will finish his presentation with the extension of his work to malware developers and targeted attacks. Some of these cases already exist: malware on the Internet backbone, custom firmware on payment terminals, custom firmware in network appliance, etc. -  What's next ?
+
+
 Trusting Files Formats: Illusions or Reality?
 ---------------------------------------------
 by Ange Albertini
