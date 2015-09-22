@@ -22,7 +22,7 @@ Tuesday 20 October 2015 (Talks)
 | 09:30 | |
 | 10:15 | Refreshment break|
 | 10:30 | |
-| 11:15 | Keynote: Internet of Tchotchke ([Paul Rascagnères](http://2015.hack.lu/talks/#bio-paul-rascagnres)) |
+| 11:15 | [Keynote: Internet of Tchotchke](http://2015.hack.lu/talks/#keynote---internet-of-tchotchke) ([Paul Rascagnères](http://2015.hack.lu/talks/#bio-paul-rascagnres)) |
 | 12:00 | Lunch |
 | 13:00 | Lightning talks|
 | 13:30 | [Security Design and High-Risk Users](http://2015.hack.lu/talks/#security-design-and-high-risk-users) ([Eleanor Saitta](http://2015.hack.lu/talks/#bio-eleanor-saitta)) |
