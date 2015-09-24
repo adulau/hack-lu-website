@@ -15,6 +15,7 @@ So this year, Hack.lu proposes to act as a facilitator.
 Rules
 ------
 Not many rules but to get things going smoothly please respect those ones:
+
 * Propose only items related to Hack.lu activities
 * Publish your ad via Twitter with hashtag #hacklu2015bazaar
 * Bring your stuff at Hack.lu
@@ -22,6 +23,7 @@ Not many rules but to get things going smoothly please respect those ones:
 
 Examples
 ---------
+
 * Open source and/or security-related books or hardware
 * Commercial hardware waiting for some pentest ;)
 * Things useful for hackerspaces
