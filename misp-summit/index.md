@@ -30,7 +30,8 @@ The MISP Summit will take place from 14:00 to 17:00, Monday 19 October 2015. The
 * 14:30 - 15:00 A brief demo of the improvements in MISP 2.4 and a glimpse into what to expect from future versions by Andras Iklody, CIRCL.
 * 15:00 - 15:30 Workflow of a security analyst (from [PyMISP](https://github.com/CIRCL/PyMISP) to [viper](https://github.com/viper-framework/viper/)) by Raphael Vinot, CIRCL.
 * 15:30 - 15:45 Break
-* 15:45 - 16:15
+* 15:45 - 16:00 
+* 16:00 - 16-15 Legal framework of information and threat sharing with MISP by Matthieu Farcot, Securitymadein.lu.
 * 16:15 - 17:00 Q&A sessions with a specific session about new features and roadmap in MISP.
 
 Where
