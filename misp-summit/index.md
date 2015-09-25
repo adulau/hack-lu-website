@@ -31,7 +31,7 @@ The MISP Summit will take place from 14:00 to 17:00, Monday 19 October 2015. The
 * 15:00 - 15:30 Workflow of a security analyst (from [PyMISP](https://github.com/CIRCL/PyMISP) to [viper](https://github.com/viper-framework/viper/)) by Raphael Vinot, CIRCL.
 * 15:30 - 15:45 Break
 * 15:45 - 16:15
-* 16:15 - 17:00 Q&A sessions with a specific sessions about new features and roadmap in MISP.
+* 16:15 - 17:00 Q&A sessions with a specific session about new features and roadmap in MISP.
 
 Where
 -----
