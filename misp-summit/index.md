@@ -26,7 +26,7 @@ Agenda
 The MISP Summit will take place from 14:00 to 17:00, Monday 19 October 2015. The foreseen agenda is the following:
 
 * 14:00 - 14:10 Introduction
-* 14:10 - 14:30
+* 14:10 - 14:30 IS2RI, the next steps of the MISP governance by Christophe Vandeplas.
 * 14:30 - 15:00 A brief demo of the improvements in MISP 2.4 and a glimpse into what to expect from future versions by Andras Iklody, CIRCL.
 * 15:00 - 15:30 Workflow of a security analyst (from [PyMISP](https://github.com/CIRCL/PyMISP) to [viper](https://github.com/viper-framework/viper/)) by Raphael Vinot, CIRCL.
 * 15:30 - 15:45 Break
