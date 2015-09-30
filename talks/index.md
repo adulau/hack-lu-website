@@ -247,6 +247,28 @@ Bio: Frederic Jacobs
 
 Frederic Jacobs is discovering lattices and elliptic curves at the Swiss Institute of Technology by day and works on multiple applied cryptography projects by night. He is leading the development of Signal at Open Whisper Systems.
 
+Learn from Malwares, A Practical guide of spear phishing for Red Teams
+----------------------------------------------------------------------
+by Paul Jung
+
+Malware writers are definitively security researchers. For years, bad
+guys spend time to find smart or tricky solutions to bypass enterprise
+security. This presentations is about techniques seen recently and
+reused in red team penetration tests. Amazingly these technics are quite
+simple to reuse and usually don't need extensive skills. This
+presentation will cover all aspect of spear a  phishing attack, from
+email harvesting, email spoofing up to spear forging bypassing AV and
+APT boxes. We will also talk about tips for improving click rate and
+solutions to escape enterprise security devices. All these tips should
+not be only seen as an evil guide for bad peoples. It's a warn a for
+everyone implied in computer security in order to align deployed
+security to modern and commonly used threats.
+
+Bio: Paul Jung
+--------------
+
+Since many years Paul spends his free time discovering, learning and sharing stuff about security. During the last decade, he worked as security architect in the network team of the European Commission. Now he works as security consultant in the Intrusion department of Excellium Services and leads the commercial CSIRT of Excellium named «CERT-XLM».
+
 How not to build an electronic voting system
 --------------------------------------------
 by Quentin Kaiser
