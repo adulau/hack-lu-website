@@ -32,7 +32,7 @@ Tuesday 20 October 2015 (Talks)
 | 16:00 | [How digital forensics met threat intelligence](http://2015.hack.lu/talks/#how-digital-forensics-met-threat-intelligence) ([Ronan Mouchoux](http://2015.hack.lu/talks/#bio-ronan-mouchoux), [Thomas Chopitea](http://2015.hack.lu/talks/#bio-thomas-chopitea))|
 | 16:45 | [Scrutinizing WPA2 Password Generating Algorithms in Wireless Routers](http://2015.hack.lu/talks/#scrutinizing-wpa2-password-generating-algorithms-in-wireless-routers) ([Eduardo Novella](http://2015.hack.lu/talks/#bio-eduardo-novella))|
 | 17:30 | [Stegosploit - Delivering Drive-By Exploits With Only Images](http://2015.hack.lu/talks/#stegosploit---delivering-drive-by-exploits-with-only-images) ([Saumil Shah](http://2015.hack.lu/talks/#bio-saumil-shah))|
-| 18:15 | |
+| 18:15 | [Learn from Malwares, A Practical guide of spear phishing for Red Teams](http://2015.hack.lu/talks/#learn-from-malwares-a-practical-guide-of-spear-phishing-for-red-teams) ([Paul Jung](http://2015.hack.lu/talks/#bio-paul-jung))|
 {: class="table"}
 
 Wednesday 21 October 2015 (Talks)
