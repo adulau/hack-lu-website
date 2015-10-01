@@ -141,4 +141,6 @@ Monday 19 October 2015 (Special interest pre-hack meeting)
 
 | Time | Wiltz |
 |:----:|:------------------:|
-| 14:00 - 17:00 | MISP summit || 
+| 14:00 - 17:00 | [MISP summit](/misp-summit/) ||
+| 09:00 - 17:00 | ICS Scada workshop ||
+ 
