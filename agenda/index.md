@@ -147,3 +147,7 @@ Monday 19 October 2015 (Special interest pre-hack meeting)
 |:----:|:------------------:|
 | 09:00 - 17:00 | ICS Scada workshop ||
 
+Tuesday 20 October 2015 (Special pre-meeting)
+---------------------------------------------
+
+There will be a [breakfast event Tuesday morning between 8:15 and 10:00 for ICT managers]({{ site.url }}/images/breakfast.png). Hack.lu participants can participate to the event too.
