@@ -139,13 +139,11 @@ Monday 19 October 2015 (Special interest pre-hack meeting)
 
 {: class="table table-striped"}
 
-| Time | Room: Wiltz |
+| Time | Room: Wiltz | Title |
 |:----:|:------------------:|
-| 14:00 - 17:00 | [MISP summit](/misp-summit/) ||
+| 09:00 - 17:00 | Fischbach |ICS Scada workshop |
+| 14:00 - 17:00 | Wiltz | [MISP summit](/misp-summit/) |
 
-| Time | Room: Fischbach |
-|:----:|:------------------:|
-| 09:00 - 17:00 | ICS Scada workshop ||
 
 Tuesday 20 October 2015 (Special pre-meeting)
 ---------------------------------------------
