@@ -88,7 +88,7 @@ Tuesday 20 October 2015 (Workshops)
 | Time | Fischbach| Echternach - Diekirch | Wiltz |
 |:----:|:----------:|:----------------------:|:--------:|
 | 09:00 | | | |
-| 09:30 |[Hack, brute, root, crash… and start again! 100% hands-on workshop](http://2015.hack.lu/talks/#hack-brute-root-crash-and-start-again--100-hands-on-workshop) (Guillaume Prigent, Adrien Barchapt) *ca. 2 h* | [Analyzing Malicious Office Documents](http://2015.hack.lu/talks/#analyzing-malicious-office-documents-2-hours) (Didier Stevens) *ca. 2 h*| [Malcom Workshop](http://2015.hack.lu/talks/#malcom-workshop-2-hours) (Sebastien Larinier and Thomas Chopitea) *ca. 2 h*|
+| 09:30 |[SCADASPLOIT hands-on workshop](http://2015.hack.lu/talks/#hack-brute-root-crash-and-start-again--100-hands-on-workshop) (Guillaume Prigent, Adrien Barchapt & Julia Berroche) *ca. 2 h* | [Analyzing Malicious Office Documents](http://2015.hack.lu/talks/#analyzing-malicious-office-documents-2-hours) (Didier Stevens) *ca. 2 h*| [Malcom Workshop](http://2015.hack.lu/talks/#malcom-workshop-2-hours) (Sebastien Larinier and Thomas Chopitea) *ca. 2 h*|
 | 10:15 | Refreshment break | Refreshment break|Refreshment break|
 | 10:30 | continue workshop | continue workshop|continue workshop|
 | 12:00 | Lunch break | Lunch break|Lunch break|
@@ -105,10 +105,10 @@ Wednesday 21 October 2015 (Workshops)
 | Time | Fischbach| Echternach - Diekirch | Wiltz |
 |:----:|:----------:|:----------------------:|:--------:|
 | 09:00 | | | |
-| 09:30 |[Hack, brute, root, crash… and start again! 100% hands-on workshop](http://2015.hack.lu/talks/#hack-brute-root-crash-and-start-again--100-hands-on-workshop) (Guillaume Prigent, Adrien Barchapt) *ca. 2 h* |  | |
-| 10:15 |  | ||
-| 10:30 |  | ||
-| 12:00 |  | ||
+| 09:30 |[SCADASPLOIT hands-on workshop](http://2015.hack.lu/talks/#hack-brute-root-crash-and-start-again--100-hands-on-workshop) (Guillaume Prigent, Adrien Barchapt & Julia Berroche) *ca. 2 h* |  | |
+| 10:15 | Refreshment break | ||
+| 10:30 | continue workshop | ||
+| 12:00 | Lunch break | ||
 | 13:00 |Lightning talks |Lightning talks| Lightning talks|
 | 13:30 |[Crowdsourced Malware Triage!](http://2015.hack.lu/talks/#crowdsourced-malware-triage-2-hours) ([Sergei Frankoff](http://2015.hack.lu/talks/#bio-sergei-frankoff), [Sean Wilson](http://2015.hack.lu/talks/#bio-sean-wilson)) *ca. 2 h* | [Dr. Honeypots or: How I Learned to Stop Worrying and Love My Enemies](http://2015.hack.lu/talks/#dr-honeypots-or-how-i-learned-to-stop-worrying-and-love-my-enemies-4-hours) (Guillaume Arcas, Lukas Rist) *ca. 4 h*| |
 | 15:45 | Refreshment break | Refreshment break||
@@ -122,10 +122,10 @@ Thursday 22 October 2015 (Workshops)
 | Time | Fischbach| Echternach - Diekirch | Wiltz |Lunch area|
 |:----:|:----------:|:----------------------:|:--------:|:----------:|
 | 09:00 | | | ||
-| 09:30 |[Hack, brute, root, crash… and start again! 100% hands-on workshop](http://2015.hack.lu/talks/#hack-brute-root-crash-and-start-again--100-hands-on-workshop) (Guillaume Prigent, Adrien Barchapt) *ca. 2 h*  | | ||
-| 10:15 |  ||||
-| 10:30 |  ||||
-| 12:00 |  ||||
+| 09:30 |[SCADASPLOIT hands-on workshop](http://2015.hack.lu/talks/#hack-brute-root-crash-and-start-again--100-hands-on-workshop) (Guillaume Prigent, Adrien Barchapt & Julia Berroche) *ca. 2 h*  | | ||
+| 10:15 | Refreshment break ||||
+| 10:30 | continue workshop ||||
+| 12:00 | Lunch break ||||
 | 13:00 |Lightning talks |Lightning talks | Lightning talks|Lightning talks |
 | 13:30 | [Radare2 - a framework for reverse engineering](http://2015.hack.lu/talks/#workshop-radare2---a-framework-for-reverse-engineering-4-hours) *ca. 4 h*| [TrustZone on the USB armory](http://2015.hack.lu/talks/#trustzone-on-the-usb-armory-2-hours) ([Andrea Barisani](http://2015.hack.lu/talks/#bio-andrea-barisani), [Daniele Bianco](http://2015.hack.lu/talks/#bio-daniele-bianco)) *ca. 2 h*| |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
 | 15:45 | Refreshment break| | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
