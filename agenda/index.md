@@ -105,7 +105,7 @@ Wednesday 21 October 2015 (Workshops)
 | Time | Fischbach| Echternach - Diekirch | Wiltz |
 |:----:|:----------:|:----------------------:|:--------:|
 | 09:00 | | | |
-| 09:30 ||  | |
+| 09:30 |[Hack, brute, root, crash… and start again! 100% hands-on workshop](http://2015.hack.lu/talks/#hack-brute-root-crash-and-start-again--100-hands-on-workshop) (Guillaume Prigent, Adrien Barchapt) *ca. 2 h* |  | |
 | 10:15 |  | ||
 | 10:30 |  | ||
 | 12:00 |  | ||
@@ -122,7 +122,7 @@ Thursday 22 October 2015 (Workshops)
 | Time | Fischbach| Echternach - Diekirch | Wiltz |Lunch area|
 |:----:|:----------:|:----------------------:|:--------:|:----------:|
 | 09:00 | | | ||
-| 09:30 | | | ||
+| 09:30 |[Hack, brute, root, crash… and start again! 100% hands-on workshop](http://2015.hack.lu/talks/#hack-brute-root-crash-and-start-again--100-hands-on-workshop) (Guillaume Prigent, Adrien Barchapt) *ca. 2 h*  | | ||
 | 10:15 |  ||||
 | 10:30 |  ||||
 | 12:00 |  ||||
