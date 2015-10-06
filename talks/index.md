@@ -629,6 +629,20 @@ Dr. Honeypots or: How I Learned to Stop Worrying and Love My Enemies (4 hours)
 ------------------------------------------------------------------------------
 by Guillaume Arcas, Lukas Rist
 
+Bio: Guillaume Arcas
+--------------------
+
+Guillaume Arcas has worked as Security & Network Analyst since 1997
+primarily - but not only - in the Internet & Banking industries.
+Guillaume then specialized in Digital Forensics & Incident Response and
+joined Sekoia as CERT team leader. Guillaume is also member of the
+Honeynet Project's French Chapter since 2010.
+When not hunting for endangered species hanging on the Internet,
+Guillaume uses to read (thriller, SF, History & Philosophy in no
+particular order as long as it is printed) and walk his dog. He's also
+nourishes a certain nostalgia for the esheep.exe software (hence his
+Twitter's avatar).
+
 
 Hack, brute, root, crash... and start again ! 100% hands-on workshop
 --------------------------------------------------------------------
