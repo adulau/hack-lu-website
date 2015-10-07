@@ -54,7 +54,7 @@ Wednesday 21 October 2015 (Talks)
 | 16:00 | [Geek usages for your Fitbit Flex tracker](http://2015.hack.lu/talks/#geek-usages-for-your-fitbit-flex-tracker) ([Axelle Apvrille](http://2015.hack.lu/talks/#bio-axelle-apvrille)) |
 | 16:45 | [Key-Logger, Video, Mouse - How to turn your KVM into a raging key-logging monster](http://2015.hack.lu/talks/#key-logger-video-mouse---how-to-turn-your-kvm-into-a-raging-key-logging-monster) ([Yaniv Balmas](http://2015.hack.lu/talks/#bio-yaniv-balmas), [Lior Oppenheim](http://2015.hack.lu/talks/#bio-lior-oppenheim))|
 | 17:30 | [Keys? Where we’re going, we don’t need keys](http://2015.hack.lu/talks/#keys-where-were-going-we-dont-need-keys) ([Damien Cauquil](http://2015.hack.lu/talks/#bio-damien-cauquil))|
-| 18:15 | |
+| 18:15 | Breaking Yet Another Digital Divide: Bringing the Tech World into the Discussion on Digital Literacy (Laura Vidal)|
 {: class="table"}
 
 Thursday 22 October 2015 (Talks)
