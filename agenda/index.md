@@ -18,7 +18,7 @@ Tuesday 20 October 2015 (Talks)
 
 | Time | Talks and Speakers |
 |:----:|:------------------:|
-| 08:45 | Registration open - refreshement |
+| 08:45 | Registration open & refreshment |
 | 09:30 | |
 | 10:15 | Refreshment break|
 | 10:30 | |
