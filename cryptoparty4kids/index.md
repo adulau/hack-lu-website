@@ -18,14 +18,14 @@ But more importantly, you will have fun, as everything will be reached through g
 Program
 --------
 
-16h00 -> Intro
-16h05 -> Hacking Culture
-16h15 -> Video Games hacking
-16h25 -> Intro to crypto
-16h35 -> Break the cypher!
-16h45 -> AES Fun
-17h00 -> Let’s go IP - the network game
-17h30 -> END
+* 16h00 -> Intro
+* 16h05 -> Hacking Culture
+* 16h15 -> Video Games hacking
+* 16h25 -> Intro to crypto
+* 16h35 -> Break the cypher!
+* 16h45 -> AES Fun
+* 17h00 -> Let’s go IP - the network game
+* 17h30 -> END
 
 In more details:
 
