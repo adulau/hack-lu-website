@@ -137,12 +137,11 @@ Thursday 22 October 2015 (Workshops)
 Monday 19 October 2015 (Special interest pre-hack meeting)
 ----------------------------------------------------------
 
-{: class="table table-striped"}
-
 | Time | Room | Title |
-|:----:|:------------------:|
+|:----:|:----:|:-----:|
 | 09:00 - 17:00 | Fischbach |ICS Scada workshop |
 | 14:00 - 17:00 | Hollenfels | [MISP summit](/misp-summit/) |
+{: class="table table-striped"}
 
 
 Tuesday 20 October 2015 (Special pre-meeting)
