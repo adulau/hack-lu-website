@@ -476,6 +476,19 @@ Bio: Shift
 Shift is a freelance security researcher with a strong interest in lowlevel, vulnerability research and operating systems.
 Wandering from two sides of the coin Shift enjoys breaking software and reverse engineering different types of software.
 
+Breaking Yet Another Digital Divide: Bringing the Tech World into the Discussion on Digital Literacy
+----------------------------------------------------------------------------------------------------
+
+This talk intends to contribute to the discussions taking place around media literacy and to invite the tech community to join this conversation. I will discuss the current trends in terms of digital literacy and the current debates taking place in the world of education sciences and information technology. I wish to illustrate how certain subjects that are predominant in the world of technology remain largely absent in the learning and education research networks and vice versa.
+
+I will also propose to discuss the different ways in which the tech world can participate and contribute. In fact, one of the arguments I will defend is the necessity of the world of education and the world of technology to join forces in a deeper way.
+
+This, I suggest, could be translated into ways in which issues of security, censorship and surveillance, as well as their technical responses and solutions, can be made part of the discussion about digital literacy that many research groups discuss and debate in separate contexts. I believe this combination of work, which has surprisingly been apart for far too long, can be translated into bridge figures, using ideas for more complete, more coherent and more flexible strategies that can be fairly accessed, adapted and expanded.
+
+Bio: Laura Vidal
+----------------
+
+Laura Vidal is a passionate advocate for the connection and exchange of cultures (including the tech culture and the academic culture). She’s currently finishing a doctoral research in intercultural sensitivity as a learning process in the Web 2.0. At the same time, she manages Global Voices’ team of Latin America authors, where learning processes and experiments are the order of the day.
 
 Improving Flash Exploits Analysis
 ---------------------------------
