@@ -701,6 +701,13 @@ Bio: Joffrey Czarny
 
 Joffrey Czarny is working for Airbus Group Innovations (FR) as a security researcher. Since 2001, Joffrey is a pentester who has released advisories on VoIP Cisco products and spoken at various security-focused conferences (Hack.lu ITunderground, Hacktivity, HITB,  SSTIC, BlackHat Arsenal...). On his spare time, Joffrey is co-organizer of NoSuchCon (Paris) conference.
 
+Bio: Xavier Mehrenberger
+------------------------
+
+Xavier Mehrenberger is a security researcher at Airbus Group Innovations.
+
+He is interested in performing security audits, intrusion detection, as well as developing and using security analysis tools that help with incident response related tasks.
+
 
 Workshop: Radare2 - a framework for reverse engineering (4 hours)
 -----------------------------------------------------------------
