@@ -24,7 +24,7 @@ Tuesday 20 October 2015 (Talks)
 | 10:30 | |
 | 11:15 | [Keynote: Internet of Tchotchke](http://2015.hack.lu/talks/#keynote---internet-of-tchotchke) ([Paul Rascagnères](http://2015.hack.lu/talks/#bio-paul-rascagnres)) |
 | 12:00 | Lunch |
-| 13:00 | Lightning talks|
+| 13:00 | [Lightning talks](http://piratepad.net/duAsimuzi0)|
 | 13:30 | [Security Design and High-Risk Users](http://2015.hack.lu/talks/#security-design-and-high-risk-users) ([Eleanor Saitta](http://2015.hack.lu/talks/#bio-eleanor-saitta)) |
 | 14:15 | [Totally Spies!](http://2015.hack.lu/talks/#totally-spies) ([Marion Marschalek](http://2015.hack.lu/talks/#bio-marion-marschalek), [Paul Rascagnères](http://2015.hack.lu/talks/#bio-paul-rascagnres), [Joan Calvet](http://2015.hack.lu/talks/#bio-joan-calvet))|
 | 15:00 | [HackingTeam - how they infected your Android device by 0days](http://2015.hack.lu/talks/#hackingteam---how-they-infected-your-android-device-by-0days) ([Attila Marosi](http://2015.hack.lu/talks/#bio-attila-marosi))|
@@ -47,7 +47,7 @@ Wednesday 21 October 2015 (Talks)
 | 10:30 | [Advances in Secure Messaging Protocols](http://2015.hack.lu/talks/#advances-in-secure-messaging-protocols) ([Frederic Jacobs](http://2015.hack.lu/talks/#bio-frederic-jacobs))|
 | 11:15 | [How not to build an electronic voting system](http://2015.hack.lu/talks/#how-not-to-build-an-electronic-voting-system) ([Quentin Kaiser](http://2015.hack.lu/talks/#bio-quentin-kaiser))|
 | 12:00 | Lunch |
-| 13:00 | Lightning talks|
+| 13:00 | [Lightning talks](http://piratepad.net/duAsimuzi0)|
 | 13:30 | [Keynote - Unpatchable: Living with a Vulnerable Implanted Device](http://2015.hack.lu/talks/#keynote---unpatchable-living-with-a-vulnerable-implanted-device) ([Marie Moe](http://2015.hack.lu/talks/#bio-marie-moe))|
 | 14:15 | [Trusting Files Formats: Illusions or Reality?](http://2015.hack.lu/talks/#trusting-files-formats-illusions-or-reality) ([Ange Albertini](http://2015.hack.lu/talks/#bio-ange-albertini))|
 | 15:00 | [How Mobile Applications Are Redefining Information Controls Inside of Iran](http://2015.hack.lu/talks/#how-mobile-applications-are-redefining-information-controls-inside-of-iran) ([Mahsa Alimardani](http://2015.hack.lu/talks/#bio-mahsa-alimardani))|
@@ -70,7 +70,7 @@ Thursday 22 October 2015 (Talks)
 | 10:30 | [Binary Constraint Solving with LLVM](http://2015.hack.lu/talks/#binary-constraint-solving-with-llvm) ([Sophia D’Antoine](http://2015.hack.lu/talks/#bio-sophia-dantoine))|
 | 11:15 | [They Hate Us ‘Cause They Ain’t Us - How We Broke the Internet](http://2015.hack.lu/talks/#they-hate-us-cause-they-aint-us---how-we-broke-the-internet) ([Netanel Rubin](http://2015.hack.lu/talks/#bio-netanel-rubin))|
 | 12:00 | Lunch |
-| 13:00 | Lightning talks|
+| 13:00 | [Lightning talks](http://piratepad.net/duAsimuzi0)|
 | 13:30 | PowerPoint Karaoke |
 | 14:15 | [A Collective View of Current Trends in Criminal Hosting Infrastructures](http://2015.hack.lu/talks/#a-collective-view-of-current-trends-in-criminal-hosting-infrastructures) ([Dhia Mahjoub](http://2015.hack.lu/talks/#bio-dhia-mahjoub))|
 | 15:00 | [Crema: A LangSec-Inspired Programming Language](http://2015.hack.lu/talks/#crema-a-langsec-inspired-programming-language) ([Jacob Torrey](http://2015.hack.lu/talks/#bio-jacob-torrey), [Mark Bridgman](http://2015.hack.lu/talks/#bio-mark-bridgman))|
