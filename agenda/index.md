@@ -94,7 +94,7 @@ Tuesday 20 October 2015 (Workshops)
 | 10:15 | Refreshment break | Refreshment break|Refreshment break|
 | 10:30 | continue workshop | continue workshop|continue workshop|
 | 12:00 | Lunch break | Lunch break|Lunch break|
-| 13:00 | Lightning talks  | Lightning talks|Lightning talks |
+| 13:00 | Lightning talks [(to register)](http://piratepad.net/duAsimuzi0)  | Lightning talks|Lightning talks |
 | 13:30 | [Radare2 - a framework for reverse engineering](http://2015.hack.lu/talks/#workshop-radare2---a-framework-for-reverse-engineering-4-hours) *ca. 4 h* |[BTA: an open-source Active Directory security audit framework](http://2015.hack.lu/talks/#workshop-bta-an-open-source-active-directory-security-audit-framework-2-hours) ([Joffrey Czarny](http://2015.hack.lu/talks/#bio-joffrey-czarny)) *ca. 2 h*| |
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| end of workshop ||
@@ -111,7 +111,7 @@ Wednesday 21 October 2015 (Workshops)
 | 10:15 | Refreshment break | ||
 | 10:30 | continue workshop | ||
 | 12:00 | Lunch break | ||
-| 13:00 |Lightning talks |Lightning talks| Lightning talks|
+| 13:00 |Lightning talks [(to register)](http://piratepad.net/duAsimuzi0) |Lightning talks| Lightning talks|
 | 13:30 |[Crowdsourced Malware Triage!](http://2015.hack.lu/talks/#crowdsourced-malware-triage-2-hours) ([Sergei Frankoff](http://2015.hack.lu/talks/#bio-sergei-frankoff), [Sean Wilson](http://2015.hack.lu/talks/#bio-sean-wilson)) *ca. 2 h* | [Dr. Honeypots or: How I Learned to Stop Worrying and Love My Enemies](http://2015.hack.lu/talks/#dr-honeypots-or-how-i-learned-to-stop-worrying-and-love-my-enemies-4-hours) (Guillaume Arcas, Lukas Rist) *ca. 4 h*| |
 | 15:45 | Refreshment break | Refreshment break||
 | 16:00 | end of workshop |workshop continued | |
@@ -128,7 +128,7 @@ Thursday 22 October 2015 (Workshops)
 | 10:15 | Refreshment break ||||
 | 10:30 | continue workshop ||||
 | 12:00 | Lunch break ||||
-| 13:00 |Lightning talks |Lightning talks | Lightning talks|Lightning talks |
+| 13:00 |Lightning talks [(to register)](http://piratepad.net/duAsimuzi0) |Lightning talks | Lightning talks|Lightning talks |
 | 13:30 | [Radare2 - a framework for reverse engineering](http://2015.hack.lu/talks/#workshop-radare2---a-framework-for-reverse-engineering-4-hours) *ca. 4 h*| [TrustZone on the USB armory](http://2015.hack.lu/talks/#trustzone-on-the-usb-armory-2-hours) ([Andrea Barisani](http://2015.hack.lu/talks/#bio-andrea-barisani), [Daniele Bianco](http://2015.hack.lu/talks/#bio-daniele-bianco)) *ca. 2 h*| [Secure PHP](http://2015.hack.lu/talks/#workshop-secure-php-3-hours) ([Manuel Silvoso](http://2015.hack.lu/talks/#bio-manuel-silvoso)) *ca. 3 h*||
 | 15:45 | Refreshment break| Refreshment break| Refreshment break||
 | 16:00 | workshop continued|  | workshop continued|[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
