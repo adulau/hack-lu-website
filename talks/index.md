@@ -440,7 +440,6 @@ Saumil Shah is the founder and CEO of Net-Square, providing cutting edge informa
 
 Saumil graduated with an M.S. in Computer Science from Purdue University, USA and a B.E. in Computer Engineering from Gujarat University. He spends his leisure time breaking software, flying kites, travelling around the world and taking pictures.
 
-
 Crema: A LangSec-Inspired Programming Language
 ----------------------------------------------
 by Jacob Torrey and Mark Bridgman
@@ -767,4 +766,15 @@ Bio: Jeffrey Crowell
 Jeff is a software engineer at Google in Cambridge, MA, USA. He spends
 his free time playing CTF with Shellphish, running Boston Key Party,
 and of course, contributing to radare2.
+
+Workshop: Secure PHP (3 hours)
+------------------------------
+
+"Secure PHP" may sound for some as an oxymoron but is actually an achievable goal. The struggle between time spent securing the application and feature development is unfortunately often won by the latter because that is what developers are paid for. The goal of this workshop is to show the potential vulnerabilities of web applications and how to prevent them in PHP.
+Laptop is required to test your skills on a vulnerable application.
+
+Bio: Manuel Silvoso
+-------------------
+
+Passionate developer and sysadmin I have been in love with PHP for 10 years despite the usual bad first impressions. Now working at the Ministry of the Economy as security officer I admit that although I mostly use BASH, sometimes I write my system scripts in PHP.
 
