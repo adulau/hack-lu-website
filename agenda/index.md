@@ -127,9 +127,7 @@ Thursday 22 October 2015 (Workshops)
 | 10:30 | continue workshop ||||
 | 12:00 | Lunch break ||||
 | 13:00 |Lightning talks |Lightning talks | Lightning talks|Lightning talks |
-| 13:30 | [Radare2 - a framework for reverse engineering](http://2015.hack.lu/talks/#workshop-radare2---a-framework-for-reverse-engineering-4-hours) *ca. 4 h*| [TrustZone on the USB armory](http://2015.hack.lu/talks/#trustzone-on-the-usb-armory-2-hours) ([Andrea Barisani](http://2015.hack.lu/talks/#bio-andrea-barisani), [Daniele Bianco](http://2015.hack.lu/talks/#bio-daniele-bianco)) *ca. 2 h*| [Secure PHP](http://2015.hack.lu/talks/#workshop-secure-php-3-hours) ([Manuel Silvoso](http://2015.hack.lu/talks/#bio-manuel-silvoso)) *ca. 3 h*)
-
-||
+| 13:30 | [Radare2 - a framework for reverse engineering](http://2015.hack.lu/talks/#workshop-radare2---a-framework-for-reverse-engineering-4-hours) *ca. 4 h*| [TrustZone on the USB armory](http://2015.hack.lu/talks/#trustzone-on-the-usb-armory-2-hours) ([Andrea Barisani](http://2015.hack.lu/talks/#bio-andrea-barisani), [Daniele Bianco](http://2015.hack.lu/talks/#bio-daniele-bianco)) *ca. 2 h*| [Secure PHP](http://2015.hack.lu/talks/#workshop-secure-php-3-hours) ([Manuel Silvoso](http://2015.hack.lu/talks/#bio-manuel-silvoso)) *ca. 3 h*)||
 | 15:45 | Refreshment break| | ||
 | 16:00 | workshop continued|  | |[CryptoParty4Kids](http://2015.hack.lu/cryptoparty4kids/)|
 | 18:00 | end of workshop| | ||
