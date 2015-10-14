@@ -33,6 +33,7 @@ Tuesday 20 October 2015 (Talks)
 | 16:45 | [Scrutinizing WPA2 Password Generating Algorithms in Wireless Routers](http://2015.hack.lu/talks/#scrutinizing-wpa2-password-generating-algorithms-in-wireless-routers) ([Eduardo Novella](http://2015.hack.lu/talks/#bio-eduardo-novella))|
 | 17:30 | [Stegosploit - Delivering Drive-By Exploits With Only Images](http://2015.hack.lu/talks/#stegosploit---delivering-drive-by-exploits-with-only-images) ([Saumil Shah](http://2015.hack.lu/talks/#bio-saumil-shah))|
 | 18:15 | [Learn from Malwares, A Practical guide of spear phishing for Red Teams](http://2015.hack.lu/talks/#learn-from-malwares-a-practical-guide-of-spear-phishing-for-red-teams) ([Paul Jung](http://2015.hack.lu/talks/#bio-paul-jung))|
+| 20:00 | Social event (including drinks and walking dinner)|
 {: class="table"}
 
 Wednesday 21 October 2015 (Talks)
@@ -55,6 +56,7 @@ Wednesday 21 October 2015 (Talks)
 | 16:45 | [Key-Logger, Video, Mouse - How to turn your KVM into a raging key-logging monster](http://2015.hack.lu/talks/#key-logger-video-mouse---how-to-turn-your-kvm-into-a-raging-key-logging-monster) ([Yaniv Balmas](http://2015.hack.lu/talks/#bio-yaniv-balmas), [Lior Oppenheim](http://2015.hack.lu/talks/#bio-lior-oppenheim))|
 | 17:30 | [Keys? Where we’re going, we don’t need keys](http://2015.hack.lu/talks/#keys-where-were-going-we-dont-need-keys) ([Damien Cauquil](http://2015.hack.lu/talks/#bio-damien-cauquil))|
 | 18:15 | Breaking Yet Another Digital Divide: Bringing the Tech World into the Discussion on Digital Literacy (Laura Vidal)|
+| 19:45 | Luxembourg visit by free bus (drinks & food on your own) - Meeting at the hotel lobby |
 {: class="table"}
 
 Thursday 22 October 2015 (Talks)
@@ -96,7 +98,7 @@ Tuesday 20 October 2015 (Workshops)
 | 13:30 | [Radare2 - a framework for reverse engineering](http://2015.hack.lu/talks/#workshop-radare2---a-framework-for-reverse-engineering-4-hours) *ca. 4 h* |[BTA: an open-source Active Directory security audit framework](http://2015.hack.lu/talks/#workshop-bta-an-open-source-active-directory-security-audit-framework-2-hours) ([Joffrey Czarny](http://2015.hack.lu/talks/#bio-joffrey-czarny)) *ca. 2 h*| |
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| end of workshop ||
-| 18:00 |end of workshop| end of workshop ||
+| 18:00 |end of workshop|  ||
 {: class="table"}
 
 Wednesday 21 October 2015 (Workshops)
