@@ -80,7 +80,7 @@ As Internet users increasingly connect to the Internet through smartphones, this
 Bio: Mahsa Alimardani
 ---------------------
 
-Mahsa Alimardani has been doing research and work on the politics of Iran’s Internet for the past four years. She is currently a graduate student at the University of Amsterdam, working as a researcher on digital activism in the Data J Lab. She also dabbles with editing, writing, and sometimes ranting about Iran as the Global Voices Iran editor.
+Mahsa Alimardani has been doing research and work on the politics of Iran’s Internet for the past four years. She is currently a graduate student at the University of Amsterdam, working as a researcher on digital activism in the Data Active Lab. She also dabbles with editing, writing, and sometimes ranting about Iran as the Global Voices Iran editor.
 
 Geek usages for your Fitbit Flex tracker
 ----------------------------------------
