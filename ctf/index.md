@@ -32,7 +32,7 @@ The CTF will take place during the hack.lu conference.
 
 # Registration
 
-To be open soon.
+It is now possible to register at [school.fluxfingers.net](https://school.fluxfingers.net/).
 
 # What
 
@@ -49,13 +49,12 @@ remote. Direct your questions to somebody at our booth or on
 
 # Rules
 
-Rules have slightly changed this year (especially handling of bonus points):
-
 *    Each challenge gives base points (depending on difficulity) + first blood points (for the first three solves).
 *    All normal challenges give 100 bonus points at the beginning. Bonus points can decrease during the CTF, depending on the number of solves.
 *    No DoS/automated scans/large amounts of traffic/deleting stuff on our servers.
-*    If you find something, that solves too easy, it might be a bug. Please report it for possible bonus points.
-*    If you break the rules, we will kick your butt and remove all your points. Promised.
+*    If you find something that solves too easy it might be a bug. Please report it for possible bonus points.
+*    Do not share flags or solutions with other teams. We will not tolerate flag sharing in the IRC channel.
+*    If you break the rules we will kick your butt and remove all your points. Promised.
 
 # Points
 
