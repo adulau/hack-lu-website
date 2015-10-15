@@ -635,7 +635,7 @@ I have around 30 exercises that explain step by step how to analyze malicious of
 Bio: Didier Stevens
 -------------------
 
-Didier Stevens (Microsoft MVP Consumer Security, SANS ISC Handler, Wireshark Certified Network Analyst, CISSP, GSSP-C, GCIA, GREM, MCSD .NET, MCSE/Security, MCITP Windows Server 2008, RHCT, CCNP Security, OSWP) is an IT Security Consultant currently working at a large Belgian financial corporation. Didier started his own company in 2012 to provide IT security training services (http://DidierStevensLabs.com). You can find his open source security tools on his IT security related blog at http://blog.DidierStevens.com.
+Didier Stevens (Microsoft MVP Consumer Security, SANS ISC Handler, Wireshark Certified Network Analyst, CISSP, GSSP-C, GCIA, GREM, MCSD .NET, MCSE/Security, MCITP Windows Server 2008, RHCT, CCNP Security, OSWP) is an IT Security Consultant (Contraste Europe) currently working at a large Belgian financial corporation. Didier started his own company in 2012 to provide IT security training services (http://DidierStevensLabs.com). You can find his open source security tools on his IT security related blog at http://blog.DidierStevens.com.
 
 Dr. Honeypots or: How I Learned to Stop Worrying and Love My Enemies (4 hours)
 ------------------------------------------------------------------------------
