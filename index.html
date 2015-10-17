@@ -7,6 +7,7 @@ search_omit: true
 ---
 
 <ul class="post-list">
+  <li><article><a href="{{ site.url}}/talks/">List of talks and workshops published <span class="entry-date"> SEPT 08, 2015</span> <span class="excerpt"></span></a></li>
 {% for post in site.posts limit:10 %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
@@ -18,14 +19,22 @@ search_omit: true
 <a href="http://www.excellium.lu/"><img src="http://2014.hack.lu/images/excellium-s.jpg" /></a><br />
 <a href="http://www.checkpoint.com/"><img src="{{ site.url }}/images/checkpoint-s.jpg" /></a><br />
 <a href="http://www.deloitte.lu/"><img src="{{ site.url }}/images/deloitte.jpg" /></a><br />
+<a href="http://www.design-shift.com/orwl/"><img src="{{ site.url }}/images/logos/ORWL.jpg" /></a><br />
 <a href="http://www.ebrc.lu/"><img src="{{ site.url }}/images/logos/ebrc.jpg" /></a><br />
+<a href="http://www.conostix.com/"><img src="{{ site.url }}/images/logos/conostix.png" /></a><br />
 <a href="https://www.doclerholding.com/en/main/"><img src="{{ site.url }}/images/logos/docler.jpg" /></a><br />
 <a href="http://www.maehdros.be/"><img src="{{ site.url }}/images/logos/maehdros.jpg" /></a><br />
 <a href="http://www.itrust.lu/"><img src="{{ site.url }}/images/logos/itrust.jpg" /></a><br />
-<a href="https://www.isoc24.com/"><img src="{{ site.url }}/images/logos/isoc24.jpg" /></a><br />
+<a href="https://www.isoc24.com/"><img src="{{ site.url }}/images/logos/logo-isoc24-lowres.jpg" /></a><br />
 <a href="http://www.pwc.lu/en/information-risk-management/index.jhtml"><img src="{{ site.url }}/images/logos/pwc.png" /></a><br />
+<a href="http://www.imrim.lu/"><img src="{{ site.url }}/images/logos/logo_imrim_s.gif" /></a><br />
+<a href="http://www.dartalis.lu/"><img src="{{ site.url }}/images/logos/dartalis.png" /></a><br />
+<a href="http://www.gouvernement.lu/meco/"><img src="{{ site.url }}/images/logos/Mineco.jpg" /></a><br />
+<a href="http://www.sekoia.fr/"><img src="{{ site.url }}/images/logos/sekoia-logo.jpg" /></a><br/>
 
 <h2>CTF Sponsored by</h2>
 <a href="http://www.telindus.lu/"><img src="{{ site.url }}/images/logos/telindus.gif" /></a><br />
 <h2>Media sponsors</h2>
 <a href="http://www.miscmag.com/"><img src="{{ site.url }}/images/logos/logo_MISC.png" /></a></br />
+<h2>Community support by</h2>
+<a href="http://www.syn2cat.lu/"><img src="{{ site.url }}/images/logos/syn2cat.png" /></a><br />
