@@ -88,7 +88,7 @@ Workshop Agenda
 Tuesday 20 October 2015 (Workshops)
 -----------------------------------
 
-| Time | Fischbach| Echternach - Diekirch | Wiltz |
+| Time | Ansembourg | Echternach - Diekirch | Wiltz |
 |:----:|:----------:|:----------------------:|:--------:|
 | 09:00 | | | |
 | 09:30 |[SCADASPLOIT hands-on workshop](http://2015.hack.lu/talks/#hack-brute-root-crash-and-start-again--100-hands-on-workshop) (Guillaume Prigent, Adrien Barchapt & Julia Berroche) *ca. 2 h* | [Analyzing Malicious Office Documents](http://2015.hack.lu/talks/#analyzing-malicious-office-documents-2-hours) (Didier Stevens) *ca. 2 h*| [Malcom Workshop](http://2015.hack.lu/talks/#malcom-workshop-2-hours) (Sebastien Larinier and Thomas Chopitea) *ca. 2 h*|
@@ -105,7 +105,7 @@ Tuesday 20 October 2015 (Workshops)
 Wednesday 21 October 2015 (Workshops)
 -------------------------------------
 
-| Time | Fischbach| Echternach - Diekirch | Wiltz |
+| Time | Ansembourg | Echternach - Diekirch | Wiltz |
 |:----:|:----------:|:----------------------:|:--------:|
 | 09:00 | | | |
 | 09:30 |[SCADASPLOIT hands-on workshop](http://2015.hack.lu/talks/#hack-brute-root-crash-and-start-again--100-hands-on-workshop) (Guillaume Prigent, Adrien Barchapt & Julia Berroche) *ca. 2 h* |  | |
@@ -122,7 +122,7 @@ Wednesday 21 October 2015 (Workshops)
 Thursday 22 October 2015 (Workshops)
 ------------------------------------
 
-| Time | Fischbach| Echternach - Diekirch | Wiltz |Lunch area|
+| Time | Ansembourg | Echternach - Diekirch | Wiltz |Lunch area|
 |:----:|:----------:|:----------------------:|:--------:|:----------:|
 | 09:00 | | | ||
 | 09:30 |[SCADASPLOIT hands-on workshop](http://2015.hack.lu/talks/#hack-brute-root-crash-and-start-again--100-hands-on-workshop) (Guillaume Prigent, Adrien Barchapt & Julia Berroche) *ca. 2 h*  | | ||
