@@ -655,6 +655,17 @@ particular order as long as it is printed) and walk his dog. He's also
 nourishes a certain nostalgia for the esheep.exe software (hence his
 Twitter's avatar).
 
+Bio: Lukas Rist
+---------------
+
+Lukas is a software engineer with Blue Coat Norway, developing the
+behavioral malware analysis and back-end systems used to create an
+extensive threat intelligence database. Whenever that is not challenging
+enough, he delves into the depths of structured languages for cyber
+threat intelligence representation *sigh*, honeypot development and
+researching ICS/SCADA threats under the umbrella of the Honeynet Project
+for which he serves as a director. Feel free to ping me @glaslos
+
 
 Hack, brute, root, crash... and start again ! 100% hands-on workshop
 --------------------------------------------------------------------
