@@ -9,57 +9,25 @@ modified: 2015-09-10T19:44:38.564948-04:00
 CryptoParty4Kids
 ----------------
 
-What?
------
 
-Your first step in the hacking culture. CryptoParty4Kids is an initiative of BEE SECURE dedicated to promote a secure use of Information Technologies. You will learn about cryptography, networking, and secure browsing.
-But more importantly, you will have fun, as everything will be reached through games.
+1st Cryptoparty for Kids organized at Hack.lu conference. 
 
-Program
---------
-
-16h00 -> Intro
-16h05 -> Hacking Culture
-16h15 -> Video Games hacking
-16h25 -> Intro to crypto
-16h35 -> Break the cypher!
-16h45 -> AES Fun
-17h00 -> Let’s go IP - the network game
-17h30 -> END
-
-In more details:
-
-The secret message game:
-
-* Introduction to cryptography (why should I secure my communications)
-* Learn how to encrypt and decrypt (Symmetric cryptography via Caesar Cypher)
-* Break the Cypher (introduction to cryptanalysis)
-
-The networking game:
-
-* You are the Internet!
-* Exchange IP messages for real
-* PING command
-* TOR fun
-* DDOS ending
-
-The concluding remarks:
-
-Tips and Tricks from BEE SECURE for safe browsing
-
-Where?
-------
-
-You will be able to join us during the hack.lu conference, a conference where people discuss about computer security, privacy and information technology.
-
-[Registration for the CryptoParty4Kids](http://www.eventbrite.com/e/cryptoparty4kids-at-hacklu-2015-tickets-18551088806).
-
-When?
------
-Hack.lu, Thursday the 22nd of October. From 16h00 to 17h30
-
-What age?
----------
-This workshop is aimed at children aged from 8-12
+  The first Cryptoparty for Kids took place on Thursday 22nd October 2015 at the Hack.lu international conference which was organized at Alvisse Parc Hotel, located in Luxembourg-Dommeldange.
+	The goal of Cryptoparty for kids is to help children to understand the information communication technologies and the existing methods to secure themselves. About twenty children between 7 and 12 years old took part in the BEE SECURE event which dealt with the popularization of technologies and the ethics in the field of computer security.
+Different workshops were introduced by Hack.lu speakers, all experts in computer security:
 
 
+Here was the schedule:
+•	An introduction to “hacking culture”.
+
+•	Video games from the 90s: go beyond the limits of the equipment.
+
+•	An introduction to cryptography and cryptanalysis.
+
+•	A “networking game”: a playful and dynamic game which helped children to understand how a TCP/IP protocol works. Children also got basis in network engineering and learnt what is a DDoS attack.
+
+•	Pieces of advice about safe online surfing were given by BEE SECURE.
+ 
+	« Cryptoparty for kids is based on our experience in organizing Hack4kids editions in Grand Duchy of Luxembourg. Children will be able to use the Internet in a responsible way because a focus on cryptography and data protection awareness will be made”, explains Matthieu Farcot from SECURITYMADEIN.LU.
+	
+	This first edition was a success and other editions will be organized in Luxemburgish, German and English.
